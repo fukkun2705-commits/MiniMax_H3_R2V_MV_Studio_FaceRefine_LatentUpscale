@@ -7519,10 +7519,10 @@
         "Node name for S&R": "PrimitiveStringMultiline"
       },
       "widgets_values": [
-        "subject_definitions:\n<Subject 1> is the female protagonist defined by <Picture 1>, preserving her identity, facial features, hairstyle, clothing, body proportions, and overall appearance consistently throughout the shot.\n<Subject 2> is the early-autumn urban plaza environment defined by <Picture 4>, featuring tree-lined pedestrian space, a broad walkway, bright contemporary urban architecture, and a clean open city atmosphere.\n<Audio 1> is the Master Song used continuously for the scene, providing the musical timing and the lyric phrase <d>[Japanese] まぶしい街へ飛び出そう</d>.\n\nsummary:\n[reference generation + audio reuse] The target video is a 3-second continuation of the protagonist's walk from Scene 03. <Subject 1> walks slightly more briskly into the bright, open <Subject 2> urban plaza while the camera tracks backward from directly in front of her. The visual progression emphasizes brightness, freshness, and increasing openness in synchronization with <Audio 1> and the lyric about stepping out into the dazzling city.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - the protagonist's established identity, appearance, clothing, and facial characteristics from <Picture 1> remain consistent while her walking pace becomes slightly quicker and her smile becomes somewhat brighter than in Scene 03.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the tree-lined plaza, broad pedestrian space, bright urban buildings, and early-autumn city atmosphere from <Picture 4> are retained as the main environment.\n<Audio 1>: fully_copy - the corresponding section of the Master Song is reused directly for the scene and remains synchronized with the visual timing.\n\ndetailed_description:\nThe target video uses a bright, polished commercial music-video style with fresh early-autumn colors, clean natural light, and an open, uplifting urban atmosphere.\n\n[Shot 1] The scene continues directly from Scene 03 with <Subject 1> already walking forward through <Subject 2>. Her existing walking motion carries naturally into the opening moment without a sudden stop, pose change, or speed jump. She then increases her pace only slightly, remaining in a light, brisk walk rather than breaking into a run. Her posture stays relaxed and forward-moving, with natural arm swing and stable body rhythm. Her expression becomes a little brighter than in Scene 03, developing into a clear but still natural, optimistic smile.\n\nThe camera faces <Subject 1> from the front and moves backward smoothly at a matching speed so that she remains centered in the frame. Use a medium-to-slightly-wide composition that shows enough of her body for the walking motion to read clearly while also revealing the increasing openness of the plaza behind her. Keep her large enough in frame for stable, recognizable facial features throughout the shot; avoid making her excessively small as the wider city environment becomes visible.\n\n<Subject 2> expands behind her with tree-lined pedestrian space, a broad walkway, and bright contemporary urban architecture. Strong but soft natural daylight reflects from building surfaces and filters across the trees, giving the plaza a clean luminous appearance without harsh contrast. The shot should feel increasingly open and refreshing as she advances toward the brighter city space.\n\n<Audio 1> continues through the entire shot. When the Master Song reaches <d>[Japanese] まぶしい街へ飛び出そう</d>, the forward walking motion into the brighter, more expansive urban plaza visually matches the lyric. No narration or spoken dialogue is added. Near the end of the shot, emphasize bright natural reflections in the environment so the image can transition cleanly into Scene 05's product-focused cut.\n\noverall_soundscape:\nNo dialogue or narration. Subtle natural city environmental sounds and restrained synchronized walking sounds remain secondary to <Audio 1>.\n\nnon_diegetic_music:\n<Audio 1> is directly reused as the Master Song for the full 3-second scene, remaining clearly audible and continuous while the visual timing follows the lyric phrase <d>[Japanese] まぶしい街へ飛び出そう</d>.\n\n"
+        "subject_definitions:\n<Subject 1> is the clear chilled soft-drink bottle defined by reference image 2, preserving its established bottle shape, transparent material, product appearance, condensation droplets, and cold refreshing presentation.\n<Subject 2> is the waterfront urban promenade environment defined by reference image 7, including the visible water surface, open waterfront setting, and established urban promenade appearance.\n\nsummary:\n[reference generation] The target is a 2-second product-focused commercial shot immediately before the final scene. <Subject 1> is held naturally in the protagonist's hand and shown in close-up against the softly blurred <Subject 2>, emphasizing transparency, condensation, coldness, and refreshing product appeal. The shot continues directly from Scene 13 by moving attention onto the same bottle and prepares Scene 15 to return to the protagonist together with the product.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - the established product shape, transparent appearance, chilled presentation, and condensation droplets from reference image 2 are retained, with the bottle becoming the dominant visual subject.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the waterfront urban promenade from reference image 7 remains identifiable through the water and environmental context while being rendered with shallow depth of field behind the product.\n\ndetailed_description:\nThe target video uses a clean, bright commercial visual style with strong product clarity, refreshing transparency, and slightly warming natural light before evening.\n\n[Shot 1] The 2-second shot continues naturally from Scene 13 by moving into a close-up of <Subject 1>, the same chilled transparent soft-drink bottle that the protagonist was already holding. The protagonist's face is outside the frame; only the hand holding the bottle is visible. Keep the hand relaxed and natural, with only a very small amount of realistic movement rather than any new gesture or large action. Place the bottle near the center to slightly right of frame and keep its established proportions, transparent material, surface condensation, and product appearance clearly recognizable. The camera remains nearly fixed once the close-up is established, avoiding unnecessary panning, rotation, or dramatic reframing.\n\nBehind the bottle, <Subject 2> remains the waterfront urban promenade from reference image 7. The water surface and waterfront setting are visible but softly defocused through shallow depth of field so they support rather than compete with the product. The natural light has begun to warm slightly as the day approaches evening, while still retaining the bright, clean freshness of the preceding commercial scenes. Use the light to create controlled highlights through the transparent bottle and along individual condensation droplets, making the chilled surface and clear liquid feel especially crisp and refreshing without changing the established product design.\n\nThe entire shot prioritizes product appeal: transparency, visible coldness, fine water droplets, and a clean refreshing impression. During the Master Song's final-hook phrase <d>[Japanese] 最高の</d>, the product remains visually dominant, strengthening recognition immediately before Scene 15 returns to a composition featuring both the protagonist and the bottle.\n\noverall_soundscape:\nNo dialogue or narration. Restrained natural waterfront environmental sounds remain secondary to the Master Song, with no prominent synchronized hand or bottle sound.\n\nnon_diegetic_music:\nThe existing Master Song continues seamlessly through this 2-second shot at its established level and rhythm. The shot aligns with the final-hook phrase <d>[Japanese] 最高の</d>, maintaining musical continuity into Scene 15.\n\n\n"
       ],
       "widgets_values_named": {
-        "value": "subject_definitions:\n<Subject 1> is the female protagonist defined by <Picture 1>, preserving her identity, facial features, hairstyle, clothing, body proportions, and overall appearance consistently throughout the shot.\n<Subject 2> is the early-autumn urban plaza environment defined by <Picture 4>, featuring tree-lined pedestrian space, a broad walkway, bright contemporary urban architecture, and a clean open city atmosphere.\n<Audio 1> is the Master Song used continuously for the scene, providing the musical timing and the lyric phrase <d>[Japanese] まぶしい街へ飛び出そう</d>.\n\nsummary:\n[reference generation + audio reuse] The target video is a 3-second continuation of the protagonist's walk from Scene 03. <Subject 1> walks slightly more briskly into the bright, open <Subject 2> urban plaza while the camera tracks backward from directly in front of her. The visual progression emphasizes brightness, freshness, and increasing openness in synchronization with <Audio 1> and the lyric about stepping out into the dazzling city.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - the protagonist's established identity, appearance, clothing, and facial characteristics from <Picture 1> remain consistent while her walking pace becomes slightly quicker and her smile becomes somewhat brighter than in Scene 03.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the tree-lined plaza, broad pedestrian space, bright urban buildings, and early-autumn city atmosphere from <Picture 4> are retained as the main environment.\n<Audio 1>: fully_copy - the corresponding section of the Master Song is reused directly for the scene and remains synchronized with the visual timing.\n\ndetailed_description:\nThe target video uses a bright, polished commercial music-video style with fresh early-autumn colors, clean natural light, and an open, uplifting urban atmosphere.\n\n[Shot 1] The scene continues directly from Scene 03 with <Subject 1> already walking forward through <Subject 2>. Her existing walking motion carries naturally into the opening moment without a sudden stop, pose change, or speed jump. She then increases her pace only slightly, remaining in a light, brisk walk rather than breaking into a run. Her posture stays relaxed and forward-moving, with natural arm swing and stable body rhythm. Her expression becomes a little brighter than in Scene 03, developing into a clear but still natural, optimistic smile.\n\nThe camera faces <Subject 1> from the front and moves backward smoothly at a matching speed so that she remains centered in the frame. Use a medium-to-slightly-wide composition that shows enough of her body for the walking motion to read clearly while also revealing the increasing openness of the plaza behind her. Keep her large enough in frame for stable, recognizable facial features throughout the shot; avoid making her excessively small as the wider city environment becomes visible.\n\n<Subject 2> expands behind her with tree-lined pedestrian space, a broad walkway, and bright contemporary urban architecture. Strong but soft natural daylight reflects from building surfaces and filters across the trees, giving the plaza a clean luminous appearance without harsh contrast. The shot should feel increasingly open and refreshing as she advances toward the brighter city space.\n\n<Audio 1> continues through the entire shot. When the Master Song reaches <d>[Japanese] まぶしい街へ飛び出そう</d>, the forward walking motion into the brighter, more expansive urban plaza visually matches the lyric. No narration or spoken dialogue is added. Near the end of the shot, emphasize bright natural reflections in the environment so the image can transition cleanly into Scene 05's product-focused cut.\n\noverall_soundscape:\nNo dialogue or narration. Subtle natural city environmental sounds and restrained synchronized walking sounds remain secondary to <Audio 1>.\n\nnon_diegetic_music:\n<Audio 1> is directly reused as the Master Song for the full 3-second scene, remaining clearly audible and continuous while the visual timing follows the lyric phrase <d>[Japanese] まぶしい街へ飛び出そう</d>.\n\n"
+        "value": "subject_definitions:\n<Subject 1> is the clear chilled soft-drink bottle defined by reference image 2, preserving its established bottle shape, transparent material, product appearance, condensation droplets, and cold refreshing presentation.\n<Subject 2> is the waterfront urban promenade environment defined by reference image 7, including the visible water surface, open waterfront setting, and established urban promenade appearance.\n\nsummary:\n[reference generation] The target is a 2-second product-focused commercial shot immediately before the final scene. <Subject 1> is held naturally in the protagonist's hand and shown in close-up against the softly blurred <Subject 2>, emphasizing transparency, condensation, coldness, and refreshing product appeal. The shot continues directly from Scene 13 by moving attention onto the same bottle and prepares Scene 15 to return to the protagonist together with the product.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - the established product shape, transparent appearance, chilled presentation, and condensation droplets from reference image 2 are retained, with the bottle becoming the dominant visual subject.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the waterfront urban promenade from reference image 7 remains identifiable through the water and environmental context while being rendered with shallow depth of field behind the product.\n\ndetailed_description:\nThe target video uses a clean, bright commercial visual style with strong product clarity, refreshing transparency, and slightly warming natural light before evening.\n\n[Shot 1] The 2-second shot continues naturally from Scene 13 by moving into a close-up of <Subject 1>, the same chilled transparent soft-drink bottle that the protagonist was already holding. The protagonist's face is outside the frame; only the hand holding the bottle is visible. Keep the hand relaxed and natural, with only a very small amount of realistic movement rather than any new gesture or large action. Place the bottle near the center to slightly right of frame and keep its established proportions, transparent material, surface condensation, and product appearance clearly recognizable. The camera remains nearly fixed once the close-up is established, avoiding unnecessary panning, rotation, or dramatic reframing.\n\nBehind the bottle, <Subject 2> remains the waterfront urban promenade from reference image 7. The water surface and waterfront setting are visible but softly defocused through shallow depth of field so they support rather than compete with the product. The natural light has begun to warm slightly as the day approaches evening, while still retaining the bright, clean freshness of the preceding commercial scenes. Use the light to create controlled highlights through the transparent bottle and along individual condensation droplets, making the chilled surface and clear liquid feel especially crisp and refreshing without changing the established product design.\n\nThe entire shot prioritizes product appeal: transparency, visible coldness, fine water droplets, and a clean refreshing impression. During the Master Song's final-hook phrase <d>[Japanese] 最高の</d>, the product remains visually dominant, strengthening recognition immediately before Scene 15 returns to a composition featuring both the protagonist and the bottle.\n\noverall_soundscape:\nNo dialogue or narration. Restrained natural waterfront environmental sounds remain secondary to the Master Song, with no prominent synchronized hand or bottle sound.\n\nnon_diegetic_music:\nThe existing Master Song continues seamlessly through this 2-second shot at its established level and rhythm. The shot aligns with the final-hook phrase <d>[Japanese] 最高の</d>, maintaining musical continuity into Scene 15.\n\n\n"
       },
       "color": "#232",
       "bgcolor": "#353"
@@ -7531,12 +7531,12 @@
       "id": 362,
       "type": "PrimitiveStringMultiline",
       "pos": [
-        -940.256526757159,
+        -963.6122593770751,
         7141.296715801925
       ],
       "size": [
-        456.52421068730246,
-        730.7957195247527
+        491.36233694170824,
+        762.393089848516
       ],
       "flags": {},
       "order": 144,
@@ -7556,10 +7556,10 @@
         "Node name for S&R": "PrimitiveStringMultiline"
       },
       "widgets_values": [
-        "subject_definitions:\n<Subject 1> is the young female protagonist from <Picture 1>, preserving her established appearance, hairstyle, clothing, and overall visual identity.\n<Subject 2> is the chilled clear beverage bottle from <Picture 2>, preserving its product shape, transparent material, label design, condensation droplets, and clean commercial appearance.\n<Subject 3> is the early-autumn park and outdoor terrace environment from <Picture 5>, with natural greenery, outdoor seating or bench elements, and a bright, fresh seasonal atmosphere.\n\nsummary:\n[reference generation] The target video is a 2-second commercial-style product shot in which <Subject 2> is clearly introduced for the first time. In <Subject 3>, the hand of <Subject 1> enters the frame and naturally lifts the chilled bottle while bright natural light creates sparkling reflections and highlights the condensation, visually matching the lyric phrase <d>[Japanese] キラッと弾ける</d>.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): partially_preserved - the protagonist's established identity is retained, but only her hand and possibly a small portion of her body or face are visible because the shot is intentionally focused on the product.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the beverage bottle's established shape, transparent appearance, label design, chilled condensation, and product identity remain clearly recognizable as the visual focus.\n<Subject 3> (appears in [Shot 1]): fully_preserved - the early-autumn park and outdoor terrace setting is retained as the background environment while remaining slightly out of focus so the product stays visually dominant.\n\ndetailed_description:\nThe target video uses a bright, clean beverage-commercial style with crisp natural daylight, clear transparency, and a fresh early-autumn atmosphere.\n\n[Shot 1] A close-up frames <Subject 2>, the chilled clear beverage bottle from <Picture 2>, positioned near the center to slightly right of frame on a table, bench, or similarly natural resting surface within <Subject 3>, the early-autumn park and outdoor terrace environment from <Picture 5>. The bottle is the unmistakable visual subject of the shot. Its transparent material, label, shape, and fine condensation droplets remain clearly visible. The background greenery and terrace details are softly defocused, creating shallow depth of field while still preserving the recognizable outdoor setting.\n\nBright natural light strikes the bottle from an angle that produces clean highlights along the transparent surface and small sparkling reflections across the condensation droplets. These brief points of reflected light visually reinforce the lyric cue <d>[Japanese] キラッと弾ける</d> without adding literal on-screen text or exaggerated visual effects.\n\nFrom the edge of frame, the hand of <Subject 1>, the established female protagonist from <Picture 1>, enters naturally and reaches toward the bottle. The hand closes around the bottle with a simple, controlled grip and lifts it smoothly from the surface. Keep the action limited to this single product interaction; do not introduce additional body movement, gestures, or unnecessary repositioning. If any part of her face becomes visible near the edge of the composition, her expression remains calm, natural, and gently pleasant, but the camera does not shift attention away from the bottle.\n\nThe camera remains almost completely fixed throughout the 2-second shot, with no orbit, zoom, or noticeable reframing. Maintain the close-up composition so that the bottle remains dominant as it is lifted. The scene begins as a clean cut from the brighter urban atmosphere of the previous scene and ends with <Subject 1> holding <Subject 2>, establishing a natural visual setup for the following scene in which she continues holding the bottle while noticing the early-autumn surroundings.\n\noverall_soundscape:\nNo narration or dialogue. Natural outdoor location sounds remain restrained and secondary, with only subtle synchronized handling sound as the bottle is lifted. The Master Song continues as the primary audible element.\n\nnon_diegetic_music:\nThe existing Master Song continues through this shot, including the lyric phrase <d>[Japanese] キラッと弾ける</d>, with consistent musical continuity from the previous scene and into the following scene.\n"
+        "subject_definitions:\n<Subject 1> is the female protagonist defined by <Picture 1>, preserving her established identity, facial features, hairstyle, clothing, and overall appearance.\n<Subject 2> is the chilled clear soft-drink bottle defined by <Picture 2>, preserving its established bottle shape, transparent appearance, product design, and visible condensation.\n<Subject 3> is the waterfront urban promenade environment defined by <Picture 7>, including the waterfront, open sky, promenade, and established urban coastal setting.  \n\nsummary:\n[reference generation] The target is a 2-second final commercial-style music-video shot featuring <Subject 1> standing with <Subject 2> in <Subject 3>. It returns from the preceding product close-up to a clear view of both the protagonist and the product, ending with her natural smile toward the camera as the Master Song reaches its final hook.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - preserve the protagonist's established identity, facial appearance, hairstyle, clothing, and overall visual consistency while presenting a bright, natural closing smile.\n<Subject 2> (appears in [Shot 1]): fully_preserved - preserve the established product shape, transparency, design, and chilled appearance while keeping the bottle clearly visible in the protagonist's hand.\n<Subject 3> (appears in [Shot 1]): fully_preserved - preserve the waterfront urban promenade, visible water, open sky, and established spatial atmosphere as the final background.\n\ndetailed_description:\nThe target video uses a clean, refreshing commercial music-video style with soft, slightly warm natural light just before evening. The visual tone remains bright, positive, polished, and consistent with the preceding scenes.\n\n[Shot 1] The shot returns from the preceding close-up of the product to a stable medium composition showing <Subject 1> standing naturally within <Subject 3>. She holds <Subject 2> in one hand at a comfortable, clearly visible position so that both her face and the bottle can be recognized immediately. The waterfront and open sky remain visible behind her without overwhelming the subject. Keep <Subject 1> large enough in frame for stable, clearly recognizable facial features, maintaining consistent eyes, nose, mouth, facial proportions, hairstyle, and clothing throughout the shot.\n\n<Subject 1> remains standing in place without any large body movement. She looks directly toward the camera and holds a bright, refreshing, natural smile appropriate for the closing image of a soft-drink commercial. Her posture is relaxed and confident, with only subtle natural breathing and minimal hand movement around <Subject 2>. Do not introduce additional gestures, walking, turning, or exaggerated posing.\n\nThe camera remains almost completely fixed in a stable medium shot. Keep both <Subject 1> and <Subject 2> clearly readable at the same time, while leaving enough of <Subject 3> visible to retain the waterfront setting and open-air atmosphere. Avoid sudden reframing, zooming, or camera movement during the short closing shot.\n\nSoft natural light has begun to warm slightly compared with earlier daytime scenes, but the image should retain the fresh, clean visual character of the commercial. Gentle highlights on <Subject 2> emphasize its transparency and chilled surface without turning the shot into another extreme product close-up.\n\nAs the synchronized Master Song reaches the final hook, <d>[Japanese] 今日へ！</d>, hold <Subject 1>'s smile together with the clearly visible product. The final moment remains visually steady and composed, allowing the protagonist, bottle, waterfront, and final musical hook to form the closing image of the MV.\n\noverall_soundscape:\nNo dialogue or narration. Natural waterfront environmental sounds remain restrained and secondary, with only subtle real-world background sound and minimal synchronized movement noise so they do not compete with the Master Song.\n\nnon_diegetic_music:\nThe existing Master Song continues clearly through the full shot and reaches its final hook, <d>[Japanese] 今日へ！</d>, in synchronization with the protagonist's closing smile and the visible product. Maintain the established song level and musical continuity through the final frame.\n"
       ],
       "widgets_values_named": {
-        "value": "subject_definitions:\n<Subject 1> is the young female protagonist from <Picture 1>, preserving her established appearance, hairstyle, clothing, and overall visual identity.\n<Subject 2> is the chilled clear beverage bottle from <Picture 2>, preserving its product shape, transparent material, label design, condensation droplets, and clean commercial appearance.\n<Subject 3> is the early-autumn park and outdoor terrace environment from <Picture 5>, with natural greenery, outdoor seating or bench elements, and a bright, fresh seasonal atmosphere.\n\nsummary:\n[reference generation] The target video is a 2-second commercial-style product shot in which <Subject 2> is clearly introduced for the first time. In <Subject 3>, the hand of <Subject 1> enters the frame and naturally lifts the chilled bottle while bright natural light creates sparkling reflections and highlights the condensation, visually matching the lyric phrase <d>[Japanese] キラッと弾ける</d>.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): partially_preserved - the protagonist's established identity is retained, but only her hand and possibly a small portion of her body or face are visible because the shot is intentionally focused on the product.\n<Subject 2> (appears in [Shot 1]): fully_preserved - the beverage bottle's established shape, transparent appearance, label design, chilled condensation, and product identity remain clearly recognizable as the visual focus.\n<Subject 3> (appears in [Shot 1]): fully_preserved - the early-autumn park and outdoor terrace setting is retained as the background environment while remaining slightly out of focus so the product stays visually dominant.\n\ndetailed_description:\nThe target video uses a bright, clean beverage-commercial style with crisp natural daylight, clear transparency, and a fresh early-autumn atmosphere.\n\n[Shot 1] A close-up frames <Subject 2>, the chilled clear beverage bottle from <Picture 2>, positioned near the center to slightly right of frame on a table, bench, or similarly natural resting surface within <Subject 3>, the early-autumn park and outdoor terrace environment from <Picture 5>. The bottle is the unmistakable visual subject of the shot. Its transparent material, label, shape, and fine condensation droplets remain clearly visible. The background greenery and terrace details are softly defocused, creating shallow depth of field while still preserving the recognizable outdoor setting.\n\nBright natural light strikes the bottle from an angle that produces clean highlights along the transparent surface and small sparkling reflections across the condensation droplets. These brief points of reflected light visually reinforce the lyric cue <d>[Japanese] キラッと弾ける</d> without adding literal on-screen text or exaggerated visual effects.\n\nFrom the edge of frame, the hand of <Subject 1>, the established female protagonist from <Picture 1>, enters naturally and reaches toward the bottle. The hand closes around the bottle with a simple, controlled grip and lifts it smoothly from the surface. Keep the action limited to this single product interaction; do not introduce additional body movement, gestures, or unnecessary repositioning. If any part of her face becomes visible near the edge of the composition, her expression remains calm, natural, and gently pleasant, but the camera does not shift attention away from the bottle.\n\nThe camera remains almost completely fixed throughout the 2-second shot, with no orbit, zoom, or noticeable reframing. Maintain the close-up composition so that the bottle remains dominant as it is lifted. The scene begins as a clean cut from the brighter urban atmosphere of the previous scene and ends with <Subject 1> holding <Subject 2>, establishing a natural visual setup for the following scene in which she continues holding the bottle while noticing the early-autumn surroundings.\n\noverall_soundscape:\nNo narration or dialogue. Natural outdoor location sounds remain restrained and secondary, with only subtle synchronized handling sound as the bottle is lifted. The Master Song continues as the primary audible element.\n\nnon_diegetic_music:\nThe existing Master Song continues through this shot, including the lyric phrase <d>[Japanese] キラッと弾ける</d>, with consistent musical continuity from the previous scene and into the following scene.\n"
+        "value": "subject_definitions:\n<Subject 1> is the female protagonist defined by <Picture 1>, preserving her established identity, facial features, hairstyle, clothing, and overall appearance.\n<Subject 2> is the chilled clear soft-drink bottle defined by <Picture 2>, preserving its established bottle shape, transparent appearance, product design, and visible condensation.\n<Subject 3> is the waterfront urban promenade environment defined by <Picture 7>, including the waterfront, open sky, promenade, and established urban coastal setting.  \n\nsummary:\n[reference generation] The target is a 2-second final commercial-style music-video shot featuring <Subject 1> standing with <Subject 2> in <Subject 3>. It returns from the preceding product close-up to a clear view of both the protagonist and the product, ending with her natural smile toward the camera as the Master Song reaches its final hook.\n\nretention_analysis:\n<Subject 1> (appears in [Shot 1]): fully_preserved - preserve the protagonist's established identity, facial appearance, hairstyle, clothing, and overall visual consistency while presenting a bright, natural closing smile.\n<Subject 2> (appears in [Shot 1]): fully_preserved - preserve the established product shape, transparency, design, and chilled appearance while keeping the bottle clearly visible in the protagonist's hand.\n<Subject 3> (appears in [Shot 1]): fully_preserved - preserve the waterfront urban promenade, visible water, open sky, and established spatial atmosphere as the final background.\n\ndetailed_description:\nThe target video uses a clean, refreshing commercial music-video style with soft, slightly warm natural light just before evening. The visual tone remains bright, positive, polished, and consistent with the preceding scenes.\n\n[Shot 1] The shot returns from the preceding close-up of the product to a stable medium composition showing <Subject 1> standing naturally within <Subject 3>. She holds <Subject 2> in one hand at a comfortable, clearly visible position so that both her face and the bottle can be recognized immediately. The waterfront and open sky remain visible behind her without overwhelming the subject. Keep <Subject 1> large enough in frame for stable, clearly recognizable facial features, maintaining consistent eyes, nose, mouth, facial proportions, hairstyle, and clothing throughout the shot.\n\n<Subject 1> remains standing in place without any large body movement. She looks directly toward the camera and holds a bright, refreshing, natural smile appropriate for the closing image of a soft-drink commercial. Her posture is relaxed and confident, with only subtle natural breathing and minimal hand movement around <Subject 2>. Do not introduce additional gestures, walking, turning, or exaggerated posing.\n\nThe camera remains almost completely fixed in a stable medium shot. Keep both <Subject 1> and <Subject 2> clearly readable at the same time, while leaving enough of <Subject 3> visible to retain the waterfront setting and open-air atmosphere. Avoid sudden reframing, zooming, or camera movement during the short closing shot.\n\nSoft natural light has begun to warm slightly compared with earlier daytime scenes, but the image should retain the fresh, clean visual character of the commercial. Gentle highlights on <Subject 2> emphasize its transparency and chilled surface without turning the shot into another extreme product close-up.\n\nAs the synchronized Master Song reaches the final hook, <d>[Japanese] 今日へ！</d>, hold <Subject 1>'s smile together with the clearly visible product. The final moment remains visually steady and composed, allowing the protagonist, bottle, waterfront, and final musical hook to form the closing image of the MV.\n\noverall_soundscape:\nNo dialogue or narration. Natural waterfront environmental sounds remain restrained and secondary, with only subtle real-world background sound and minimal synchronized movement noise so they do not compete with the Master Song.\n\nnon_diegetic_music:\nThe existing Master Song continues clearly through the full shot and reaches its final hook, <d>[Japanese] 今日へ！</d>, in synchronization with the protagonist's closing smile and the visible product. Maintain the established song level and musical continuity through the final frame.\n"
       },
       "color": "#232",
       "bgcolor": "#353"
@@ -7597,11 +7597,11 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "初秋の街路樹と都市広場.png",
+        "商品スタイルシート.png",
         "image"
       ],
       "widgets_values_named": {
-        "image": "初秋の街路樹と都市広場.png",
+        "image": "商品スタイルシート.png",
         "upload": "image"
       }
     },
@@ -10744,11 +10744,11 @@
         ]
       },
       "widgets_values": [
-        "Minimax-H3\\minimax_h3_fused_refdelta_r1024_turbo8_mystic07_int8_convrot.safetensors",
+        "Minimax-H3\\minimax_h3_ref2va_pruned_int8_convrot.safetensors",
         "default"
       ],
       "widgets_values_named": {
-        "unet_name": "Minimax-H3\\minimax_h3_fused_refdelta_r1024_turbo8_mystic07_int8_convrot.safetensors",
+        "unet_name": "Minimax-H3\\minimax_h3_ref2va_pruned_int8_convrot.safetensors",
         "weight_dtype": "default"
       },
       "color": "#223",
@@ -10767,7 +10767,7 @@
       ],
       "flags": {},
       "order": 264,
-      "mode": 4,
+      "mode": 0,
       "inputs": [
         {
           "name": "model",
@@ -10788,11 +10788,11 @@
         "Node name for S&R": "LoraLoaderModelOnly"
       },
       "widgets_values": [
-        "Minimax-H3\\MiniMax-H3-Ref2VA-Acc-8Step_pruned_comfy.safetensors",
+        "Minimax-H3\\taomate_h3_3step_comfy.safetensors",
         1
       ],
       "widgets_values_named": {
-        "lora_name": "Minimax-H3\\MiniMax-H3-Ref2VA-Acc-8Step_pruned_comfy.safetensors",
+        "lora_name": "Minimax-H3\\taomate_h3_3step_comfy.safetensors",
         "strength_model": 1
       },
       "color": "#223",
@@ -12226,10 +12226,10 @@
         "Node name for S&R": "FloatConstant"
       },
       "widgets_values": [
-        1.6
+        1.8
       ],
       "widgets_values_named": {
-        "value": 1.6
+        "value": 1.8
       },
       "color": "#232",
       "bgcolor": "#353"
@@ -12264,19 +12264,19 @@
           "links": []
         },
         {
-          "label": "1344 width",
+          "label": "1520 width",
           "name": "width",
           "type": "INT",
           "links": null
         },
         {
-          "label": "808 height",
+          "label": "896 height",
           "name": "height",
           "type": "INT",
           "links": null
         },
         {
-          "label": "821 count",
+          "label": "753 count",
           "name": "count",
           "type": "INT",
           "links": [
@@ -13703,11 +13703,11 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "初秋の公園・屋外テラス.png",
+        "ウオーターフロント・都市型プロムナード.png",
         "image"
       ],
       "widgets_values_named": {
-        "image": "初秋の公園・屋外テラス.png",
+        "image": "ウオーターフロント・都市型プロムナード.png",
         "upload": "image"
       }
     },
@@ -13879,10 +13879,10 @@
         "Node name for S&R": "PrimitiveFloat"
       },
       "widgets_values": [
-        5
+        2
       ],
       "widgets_values_named": {
-        "value": 5
+        "value": 2
       },
       "color": "#322",
       "bgcolor": "#533"
@@ -13918,10 +13918,10 @@
         "Node name for S&R": "PrimitiveFloat"
       },
       "widgets_values": [
-        4
+        2
       ],
       "widgets_values_named": {
-        "value": 4
+        "value": 2
       },
       "color": "#322",
       "bgcolor": "#533"
@@ -14291,10 +14291,10 @@
         "Node name for S&R": "PrimitiveFloat"
       },
       "widgets_values": [
-        7
+        3
       ],
       "widgets_values_named": {
-        "value": 7
+        "value": 3
       },
       "color": "#232",
       "bgcolor": "#353"
@@ -14367,11 +14367,11 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "ステージから客席まで見える同一ライブハウス.png",
+        "ジャズ専用ライブハウス・ステージ.png",
         "image"
       ],
       "widgets_values_named": {
-        "image": "ステージから客席まで見える同一ライブハウス.png",
+        "image": "ジャズ専用ライブハウス・ステージ.png",
         "upload": "image"
       }
     },
@@ -14578,10 +14578,10 @@
         "Node name for S&R": "PrimitiveStringMultiline"
       },
       "widgets_values": [
-        "subject_definitions:\n<Subject 1> is the female jazz vocalist defined by <Picture 1>, preserving her identity, facial features, hairstyle, outfit, age impression, and overall appearance. She is the central vocalist and remains positioned at the front-center microphone during this scene.\n<Subject 2> is the dedicated jazz live-house stage environment defined by <Picture 2>, preserving the wooden stage, deep-blue curtain, stage geometry, lighting atmosphere, and established placement of the visible instruments and performance area.\n<Subject 3> is the jazz-band ensemble and stage arrangement defined by <Picture 4>, preserving the established band configuration, relative performer positions, upright bass, piano, drums, guitar, brass section, and their spatial relationship to the central vocalist.\n<Audio 1> is the Master Song audio reference that defines the exact musical progression of the 10-second intro: upright bass solo, fast running bass solo, brushed drums entering, and then the full band entering together.\n\nsummary:\n[reference generation + audio reference] The target video is a 10-second opening music-video scene set in <Subject 2>, with <Subject 1> waiting calmly at the center microphone while <Subject 3> begins the performance. The visual progression follows <Audio 1>: the upright bass begins alone, brushed drums join afterward, and the remaining band enters together during the latter part of the intro. The camera starts by emphasizing the upright bassist and instrument, then gradually widens into a coherent full-stage view that directs attention toward <Subject 1>, ending immediately before she begins singing.\n\nretention_analysis:\n<Subject 1> (appears throughout the scene): fully_preserved - preserve the female vocalist's referenced identity, facial characteristics, hairstyle, outfit, and overall appearance while keeping her naturally poised at the center microphone.\n<Subject 2> (appears throughout the scene): fully_preserved - preserve the referenced jazz live-house architecture, wooden stage, deep-blue curtain, lighting character, stage depth, and established spatial arrangement.\n<Subject 3> (appears throughout the scene): fully_preserved - preserve the referenced jazz-band instrumentation, performer arrangement, and relative stage positions without duplicating, removing, or rearranging band members or instruments.\n<Audio 1>: reference - use the Master Song's intro structure, timing, rhythm, and instrumental entrances to guide the visible performance progression without altering its established musical sequence.\n\ndetailed_description:\nThe target video uses an intimate, realistic jazz music-video style with warm amber and golden stage lighting, restrained camera movement, and a subtle deep-blue lighting accent in the background. Preserve one coherent viewpoint of the referenced live-house environment and maintain stable stage geometry, instrument placement, performer identities, and background detail throughout the shot.\n\n[Shot 1] The 10-second MV opening begins inside <Subject 2>, the nighttime jazz live house. The camera initially frames the upright bassist from <Subject 3> together with the upright bass as the principal visual focus, using a controlled medium-to-medium-wide composition. The bassist begins playing in precise correspondence with the opening upright-bass passage of <Audio 1>. His hands move naturally on the strings and fingerboard, with convincing upright-bass performance motion. The performance develops into the fast running bass solo specified by <Audio 1>. Other musicians remain ready at their established positions rather than appearing to perform before their musical entrances.\n\nAs the intro progresses, the drummer joins at the correct point in <Audio 1>, playing with brushes using restrained, natural hand and wrist movement. The camera gradually and smoothly widens rather than making a sudden reframing or rapid movement. As the field of view expands, reveal the established stage arrangement of <Subject 3>: the drums, piano, guitar, upright bass, brass section, and the other band members remain in their referenced positions within the same coherent physical stage.\n\nDuring the latter portion of the 10-second shot, the remaining musicians begin playing together in correspondence with the full-band entrance in <Audio 1>. Their movements are controlled and authentic to their respective instruments, creating the feeling that the performance is naturally building from bass alone, to bass with brushed drums, and finally to the complete ensemble.\n\n<Subject 1> remains at the front-center microphone throughout this progression. She does not sing during this scene. She stands naturally with relaxed posture, making only small body movements as she feels the rhythm and waits for her vocal entrance. Her expression is calm and composed with a slight anticipatory smile. A soft spotlight gives her gentle visual emphasis without separating her unnaturally from the surrounding band.\n\nBy the end of the shot, the camera has reached a stable wide stage composition with <Subject 1> clearly recognizable at the front center and the members of <Subject 3> arranged naturally to the sides and rear according to <Picture 4>. Keep her large enough in the wider framing for stable facial features. Warm amber and gold light shape the performers and wooden stage while restrained blue accents remain visible against the deep-blue curtain. Maintain moderate depth of field so the live-house environment, instruments, and band arrangement remain readable rather than becoming excessively blurred.\n\nThe final moments hold the full ensemble actively performing while visual attention naturally converges on <Subject 1>. She remains poised at the microphone, ready to sing, but does not begin vocalizing before the end of this clip. End on this stable performance state so the following scene can begin naturally with her first vocal entrance.\n\noverall_soundscape:\nThe audible performance follows <Audio 1> closely: upright bass begins alone, brushed drums enter afterward, and the complete jazz ensemble joins during the latter part of the intro. The live-house acoustic character remains natural and intimate. There is no narration and no spoken dialogue.\n\nnon_diegetic_music:\n<Audio 1> provides the musical reference for the Master Song intro. Preserve its exact musical progression and timing: upright bass solo, fast running bass solo, brushed drums entering, followed by the full band entering together. The music remains clear and present throughout the clip, building naturally toward the female vocalist's upcoming first vocal entrance.\n\n"
+        "subject_definitions: \\<Subject 1> is the female jazz vocalist defined by \\<Picture 1>, preserving her exact identity, facial features, hairstyle, outfit, age impression, body proportions, and overall appearance. She is the sole featured vocalist throughout the scene. \\<Subject 2> is the intimate jazz live house defined by \\<Picture 3>, preserving the established stage, audience seating area, tables, lamps, interior architecture, spatial layout, and warm nighttime atmosphere. \\<Subject 3> is the jazz band and its established stage arrangement defined by \\<Picture 4>, preserving the referenced musicians, instruments, relative positions, and natural ensemble performance. \\<Subject 4> is the seated audience within \\<Subject 2>, treated as a collective background presence rather than a collection of individually featured characters. \\<Audio 1> is the Master Song audio reference for the second half of the final chorus, guiding the female vocalist's singing, precise lip synchronization, musical timing, and emotional delivery.  summary: [reference generation + audio reference] The target video is a 13-second music-video scene covering the second half of the final chorus. \\<Subject 1> continues singing warmly toward the entire audience inside \\<Subject 2>, accompanied by \\<Subject 3>. The camera observes her from a diagonal front angle and slowly moves sideways, gradually revealing the relationship between the vocalist, stage, and seated audience. \\<Subject 4> listens quietly without any individual audience member becoming the focus. The atmosphere develops into a bright, intimate, emotionally uplifting climax, synchronized with \\<Audio 1>.  retention_analysis: \\<Subject 1> (appears in [Shot 1]): fully_preserved - Preserve the vocalist's identity, facial appearance, hairstyle, clothing, body proportions, and established singing presence. Her expression becomes warmly encouraging without exaggerated performance gestures. \\<Subject 2> (appears in [Shot 1]): fully_preserved - Maintain the same live-house architecture, stage position, seating arrangement, tables, lamps, warm lighting, and spatial relationships shown in \\<Picture 3>. \\<Subject 3> (appears in [Shot 1]): fully_preserved - Maintain the established jazz band instrumentation, musician identities where visible, and stage positions from \\<Picture 4>. The musicians continue performing naturally. \\<Subject 4> (appears in [Shot 1]): partially_preserved - Preserve the collective presence of seated listeners while keeping individual audience identities and facial details visually secondary. \\<Audio 1>: reference - Use the Master Song's final-chorus timing, Japanese lyrics, vocal phrasing, rhythm, and emotional progression to guide the visible singing performance and instrumental synchronization.  detailed_description: The target video uses a realistic cinematic jazz music-video style, with warm amber stage lighting, soft golden illumination across the audience, natural skin tones, and an intimate nighttime live-house atmosphere. The entire 13-second sequence is presented as one continuous, smoothly moving shot.  [Shot 1] The scene takes place inside \\<Subject 2>, the same intimate jazz live house established in the reference images. \\<Subject 1> stands at the microphone onstage, positioned toward one side of the foreground or midground. Her face remains clearly recognizable, with the exact hairstyle, clothing, and facial characteristics established by \\<Picture 1>.  The scene continues the strong vocal performance from Scene 09 without interrupting the musical flow. \\<Subject 1> (S1) sings the second half of the final chorus with a bright, gentle smile. Her emotional delivery remains expressive but controlled, communicating encouragement and reassurance rather than theatrical intensity.  She sings the Japanese lyrics from \\<Audio 1>, \\<d>[Japanese] ひとりで全部 頑張らないで あなたが呼んだら 駆けつけるよ。\\</d>  Her mouth and jaw movements synchronize naturally and precisely with the Japanese vocal phrasing, syllables, sustained notes, and pauses in \\<Audio 1>. She maintains a stable singing posture at the microphone, with only subtle head movement, natural breathing, and small changes in facial expression.  During the opening portion, the camera observes her from a diagonal front medium shot. She gently directs her gaze across the audience as a whole, conveying the feeling that she is singing personally to everyone present without focusing on any particular listener.  As the performance continues, the camera begins a very slow, smooth lateral movement. This movement gradually broadens the visible composition to include more of the stage and audience seating area while keeping \\<Subject 1> visually prominent.  \\<Subject 4> remains seated at the existing tables, quietly listening to the music. Audience members show only restrained, natural movements, such as slight head movements or relaxed changes in posture. No audience member stands, approaches the stage, or becomes an individually featured character. Avoid isolated audience close-ups, exaggerated reactions, or identifiable audience-focused emotional storytelling.  \\<Subject 3>, the jazz band defined by \\<Picture 4>, continues performing in its established positions. The musicians maintain natural, rhythmically appropriate instrumental movements. The camera movement does not rearrange the band or introduce additional performers.  The warm interior of \\<Subject 2> remains clearly recognizable. Audience tables, small lamps, stage equipment, and architectural details retain their original positions and proportions. Maintain moderate depth of field so the vocalist remains visually emphasized while the stage and seating area retain readable structure and depth.  Bright amber stage lighting gently illuminates \\<Subject 1>, while softer warm light reaches the audience tables. The lighting remains stable, with no sudden color changes, dramatic flashes, or artificial lighting transitions.  During the latter portion, the camera continues its restrained sideways movement, presenting the vocalist, accompanying band, and seated audience as parts of one connected performance space. The composition communicates emotional warmth through the shared atmosphere rather than through individual audience reactions.  The vocalist's encouraging expression remains natural and sincere. Her gaze continues to move gently across the room while her singing remains synchronized with \\<Audio 1>.  By the end of the 13-second shot, the warm collective atmosphere of the live house is fully established. \\<Subject 1> remains visible and actively singing, allowing the following scene to return its visual emphasis to her without interrupting the musical continuity.  Keep the entire shot spatially and temporally coherent. Preserve stable facial identity, consistent microphone placement, realistic musician movements, natural audience behavior, and stable background geometry throughout the lateral camera movement.  overall_soundscape: The female vocalist's Japanese singing remains clear and synchronized with \\<Audio 1>. The jazz band's instrumental performance follows the same musical timing. Subtle natural live-house room acoustics support the intimate performance atmosphere. Audience noise and incidental environmental sounds remain restrained and secondary. No spoken dialogue or narration.  non_diegetic_music: The existing Master Song \\<Audio 1> continues through the second half of the final chorus, maintaining its established jazz-pop arrangement, tempo, instrumentation, vocal melody, and rhythmic progression. Preserve the warm, uplifting musical climax with clearly audible female lead vocals and balanced jazz ensemble accompaniment. Maintain continuous musical energy and consistent audio levels without introducing a new composition, additional musical layers, an unintended fade-out, or a separate background score."
       ],
       "widgets_values_named": {
-        "value": "subject_definitions:\n<Subject 1> is the female jazz vocalist defined by <Picture 1>, preserving her identity, facial features, hairstyle, outfit, age impression, and overall appearance. She is the central vocalist and remains positioned at the front-center microphone during this scene.\n<Subject 2> is the dedicated jazz live-house stage environment defined by <Picture 2>, preserving the wooden stage, deep-blue curtain, stage geometry, lighting atmosphere, and established placement of the visible instruments and performance area.\n<Subject 3> is the jazz-band ensemble and stage arrangement defined by <Picture 4>, preserving the established band configuration, relative performer positions, upright bass, piano, drums, guitar, brass section, and their spatial relationship to the central vocalist.\n<Audio 1> is the Master Song audio reference that defines the exact musical progression of the 10-second intro: upright bass solo, fast running bass solo, brushed drums entering, and then the full band entering together.\n\nsummary:\n[reference generation + audio reference] The target video is a 10-second opening music-video scene set in <Subject 2>, with <Subject 1> waiting calmly at the center microphone while <Subject 3> begins the performance. The visual progression follows <Audio 1>: the upright bass begins alone, brushed drums join afterward, and the remaining band enters together during the latter part of the intro. The camera starts by emphasizing the upright bassist and instrument, then gradually widens into a coherent full-stage view that directs attention toward <Subject 1>, ending immediately before she begins singing.\n\nretention_analysis:\n<Subject 1> (appears throughout the scene): fully_preserved - preserve the female vocalist's referenced identity, facial characteristics, hairstyle, outfit, and overall appearance while keeping her naturally poised at the center microphone.\n<Subject 2> (appears throughout the scene): fully_preserved - preserve the referenced jazz live-house architecture, wooden stage, deep-blue curtain, lighting character, stage depth, and established spatial arrangement.\n<Subject 3> (appears throughout the scene): fully_preserved - preserve the referenced jazz-band instrumentation, performer arrangement, and relative stage positions without duplicating, removing, or rearranging band members or instruments.\n<Audio 1>: reference - use the Master Song's intro structure, timing, rhythm, and instrumental entrances to guide the visible performance progression without altering its established musical sequence.\n\ndetailed_description:\nThe target video uses an intimate, realistic jazz music-video style with warm amber and golden stage lighting, restrained camera movement, and a subtle deep-blue lighting accent in the background. Preserve one coherent viewpoint of the referenced live-house environment and maintain stable stage geometry, instrument placement, performer identities, and background detail throughout the shot.\n\n[Shot 1] The 10-second MV opening begins inside <Subject 2>, the nighttime jazz live house. The camera initially frames the upright bassist from <Subject 3> together with the upright bass as the principal visual focus, using a controlled medium-to-medium-wide composition. The bassist begins playing in precise correspondence with the opening upright-bass passage of <Audio 1>. His hands move naturally on the strings and fingerboard, with convincing upright-bass performance motion. The performance develops into the fast running bass solo specified by <Audio 1>. Other musicians remain ready at their established positions rather than appearing to perform before their musical entrances.\n\nAs the intro progresses, the drummer joins at the correct point in <Audio 1>, playing with brushes using restrained, natural hand and wrist movement. The camera gradually and smoothly widens rather than making a sudden reframing or rapid movement. As the field of view expands, reveal the established stage arrangement of <Subject 3>: the drums, piano, guitar, upright bass, brass section, and the other band members remain in their referenced positions within the same coherent physical stage.\n\nDuring the latter portion of the 10-second shot, the remaining musicians begin playing together in correspondence with the full-band entrance in <Audio 1>. Their movements are controlled and authentic to their respective instruments, creating the feeling that the performance is naturally building from bass alone, to bass with brushed drums, and finally to the complete ensemble.\n\n<Subject 1> remains at the front-center microphone throughout this progression. She does not sing during this scene. She stands naturally with relaxed posture, making only small body movements as she feels the rhythm and waits for her vocal entrance. Her expression is calm and composed with a slight anticipatory smile. A soft spotlight gives her gentle visual emphasis without separating her unnaturally from the surrounding band.\n\nBy the end of the shot, the camera has reached a stable wide stage composition with <Subject 1> clearly recognizable at the front center and the members of <Subject 3> arranged naturally to the sides and rear according to <Picture 4>. Keep her large enough in the wider framing for stable facial features. Warm amber and gold light shape the performers and wooden stage while restrained blue accents remain visible against the deep-blue curtain. Maintain moderate depth of field so the live-house environment, instruments, and band arrangement remain readable rather than becoming excessively blurred.\n\nThe final moments hold the full ensemble actively performing while visual attention naturally converges on <Subject 1>. She remains poised at the microphone, ready to sing, but does not begin vocalizing before the end of this clip. End on this stable performance state so the following scene can begin naturally with her first vocal entrance.\n\noverall_soundscape:\nThe audible performance follows <Audio 1> closely: upright bass begins alone, brushed drums enter afterward, and the complete jazz ensemble joins during the latter part of the intro. The live-house acoustic character remains natural and intimate. There is no narration and no spoken dialogue.\n\nnon_diegetic_music:\n<Audio 1> provides the musical reference for the Master Song intro. Preserve its exact musical progression and timing: upright bass solo, fast running bass solo, brushed drums entering, followed by the full band entering together. The music remains clear and present throughout the clip, building naturally toward the female vocalist's upcoming first vocal entrance.\n\n"
+        "value": "subject_definitions: \\<Subject 1> is the female jazz vocalist defined by \\<Picture 1>, preserving her exact identity, facial features, hairstyle, outfit, age impression, body proportions, and overall appearance. She is the sole featured vocalist throughout the scene. \\<Subject 2> is the intimate jazz live house defined by \\<Picture 3>, preserving the established stage, audience seating area, tables, lamps, interior architecture, spatial layout, and warm nighttime atmosphere. \\<Subject 3> is the jazz band and its established stage arrangement defined by \\<Picture 4>, preserving the referenced musicians, instruments, relative positions, and natural ensemble performance. \\<Subject 4> is the seated audience within \\<Subject 2>, treated as a collective background presence rather than a collection of individually featured characters. \\<Audio 1> is the Master Song audio reference for the second half of the final chorus, guiding the female vocalist's singing, precise lip synchronization, musical timing, and emotional delivery.  summary: [reference generation + audio reference] The target video is a 13-second music-video scene covering the second half of the final chorus. \\<Subject 1> continues singing warmly toward the entire audience inside \\<Subject 2>, accompanied by \\<Subject 3>. The camera observes her from a diagonal front angle and slowly moves sideways, gradually revealing the relationship between the vocalist, stage, and seated audience. \\<Subject 4> listens quietly without any individual audience member becoming the focus. The atmosphere develops into a bright, intimate, emotionally uplifting climax, synchronized with \\<Audio 1>.  retention_analysis: \\<Subject 1> (appears in [Shot 1]): fully_preserved - Preserve the vocalist's identity, facial appearance, hairstyle, clothing, body proportions, and established singing presence. Her expression becomes warmly encouraging without exaggerated performance gestures. \\<Subject 2> (appears in [Shot 1]): fully_preserved - Maintain the same live-house architecture, stage position, seating arrangement, tables, lamps, warm lighting, and spatial relationships shown in \\<Picture 3>. \\<Subject 3> (appears in [Shot 1]): fully_preserved - Maintain the established jazz band instrumentation, musician identities where visible, and stage positions from \\<Picture 4>. The musicians continue performing naturally. \\<Subject 4> (appears in [Shot 1]): partially_preserved - Preserve the collective presence of seated listeners while keeping individual audience identities and facial details visually secondary. \\<Audio 1>: reference - Use the Master Song's final-chorus timing, Japanese lyrics, vocal phrasing, rhythm, and emotional progression to guide the visible singing performance and instrumental synchronization.  detailed_description: The target video uses a realistic cinematic jazz music-video style, with warm amber stage lighting, soft golden illumination across the audience, natural skin tones, and an intimate nighttime live-house atmosphere. The entire 13-second sequence is presented as one continuous, smoothly moving shot.  [Shot 1] The scene takes place inside \\<Subject 2>, the same intimate jazz live house established in the reference images. \\<Subject 1> stands at the microphone onstage, positioned toward one side of the foreground or midground. Her face remains clearly recognizable, with the exact hairstyle, clothing, and facial characteristics established by \\<Picture 1>.  The scene continues the strong vocal performance from Scene 09 without interrupting the musical flow. \\<Subject 1> (S1) sings the second half of the final chorus with a bright, gentle smile. Her emotional delivery remains expressive but controlled, communicating encouragement and reassurance rather than theatrical intensity.  She sings the Japanese lyrics from \\<Audio 1>, \\<d>[Japanese] ひとりで全部 頑張らないで あなたが呼んだら 駆けつけるよ。\\</d>  Her mouth and jaw movements synchronize naturally and precisely with the Japanese vocal phrasing, syllables, sustained notes, and pauses in \\<Audio 1>. She maintains a stable singing posture at the microphone, with only subtle head movement, natural breathing, and small changes in facial expression.  During the opening portion, the camera observes her from a diagonal front medium shot. She gently directs her gaze across the audience as a whole, conveying the feeling that she is singing personally to everyone present without focusing on any particular listener.  As the performance continues, the camera begins a very slow, smooth lateral movement. This movement gradually broadens the visible composition to include more of the stage and audience seating area while keeping \\<Subject 1> visually prominent.  \\<Subject 4> remains seated at the existing tables, quietly listening to the music. Audience members show only restrained, natural movements, such as slight head movements or relaxed changes in posture. No audience member stands, approaches the stage, or becomes an individually featured character. Avoid isolated audience close-ups, exaggerated reactions, or identifiable audience-focused emotional storytelling.  \\<Subject 3>, the jazz band defined by \\<Picture 4>, continues performing in its established positions. The musicians maintain natural, rhythmically appropriate instrumental movements. The camera movement does not rearrange the band or introduce additional performers.  The warm interior of \\<Subject 2> remains clearly recognizable. Audience tables, small lamps, stage equipment, and architectural details retain their original positions and proportions. Maintain moderate depth of field so the vocalist remains visually emphasized while the stage and seating area retain readable structure and depth.  Bright amber stage lighting gently illuminates \\<Subject 1>, while softer warm light reaches the audience tables. The lighting remains stable, with no sudden color changes, dramatic flashes, or artificial lighting transitions.  During the latter portion, the camera continues its restrained sideways movement, presenting the vocalist, accompanying band, and seated audience as parts of one connected performance space. The composition communicates emotional warmth through the shared atmosphere rather than through individual audience reactions.  The vocalist's encouraging expression remains natural and sincere. Her gaze continues to move gently across the room while her singing remains synchronized with \\<Audio 1>.  By the end of the 13-second shot, the warm collective atmosphere of the live house is fully established. \\<Subject 1> remains visible and actively singing, allowing the following scene to return its visual emphasis to her without interrupting the musical continuity.  Keep the entire shot spatially and temporally coherent. Preserve stable facial identity, consistent microphone placement, realistic musician movements, natural audience behavior, and stable background geometry throughout the lateral camera movement.  overall_soundscape: The female vocalist's Japanese singing remains clear and synchronized with \\<Audio 1>. The jazz band's instrumental performance follows the same musical timing. Subtle natural live-house room acoustics support the intimate performance atmosphere. Audience noise and incidental environmental sounds remain restrained and secondary. No spoken dialogue or narration.  non_diegetic_music: The existing Master Song \\<Audio 1> continues through the second half of the final chorus, maintaining its established jazz-pop arrangement, tempo, instrumentation, vocal melody, and rhythmic progression. Preserve the warm, uplifting musical climax with clearly audible female lead vocals and balanced jazz ensemble accompaniment. Maintain continuous musical energy and consistent audio levels without introducing a new composition, additional musical layers, an unintended fade-out, or a separate background score."
       },
       "color": "#232",
       "bgcolor": "#353"
@@ -14615,10 +14615,10 @@
         "Node name for S&R": "PrimitiveStringMultiline"
       },
       "widgets_values": [
-        "subject_definitions:\n<Subject 1> is the female jazz vocalist defined by <Picture 1>, preserving her identity, facial features, hairstyle, outfit, age impression, and overall appearance.\n<Subject 2> is the live-house performance space defined by <Picture 3>, preserving the established stage and audience layout, round tables, chairs, warm table lamps, and intimate jazz-club atmosphere.\n<Subject 3> is a single audience member seated in <Subject 2>, appearing naturally among the existing audience and showing a mildly troubled expression without appearing distressed.\n<Audio 1> is the Master Song audio reference, including the female vocal performance and the lyric phrase <d>[Japanese] ほら 今日も見つけた ちょっと困ったその顔</d>, which guides the singing, lip synchronization, musical timing, and the vocalist's visual reaction.\n\nsummary:\n[reference generation + audio reference] The target video is a 12-second music-video scene in which <Subject 1> begins singing onstage in <Subject 2>, naturally looking across the audience while performing. As <Audio 1> reaches the lyric about noticing a slightly troubled face, she notices <Subject 3> seated among the audience. Her expression shifts subtly from bright and approachable to a gentle, reassuring smile while her gaze settles on that one person.\n\nretention_analysis:\n<Subject 1> (appears throughout the scene): fully_preserved - preserve the female jazz vocalist's referenced identity, facial characteristics, hairstyle, outfit, and overall appearance while adding only the specified singing, subtle rhythmic movement, gaze direction, and expression change.\n<Subject 2> (appears throughout the scene): fully_preserved - preserve the referenced live-house environment as one coherent physical space, including the established stage, audience area, round tables, chairs, warm table lamps, room geometry, depth, and warm nighttime atmosphere.\n<Subject 3> (appears in the audience during the latter part of the scene): weak_reference - the audience member is introduced as a natural supporting person within the established audience area, with only the specified mildly troubled expression and seated behavior defining the role.\n<Audio 1>: reference - use the Master Song as the timing, vocal-performance, lyric-content, and lip-synchronization reference for <Subject 1>, with the visual discovery of <Subject 3> coordinated naturally to the lyric phrase.\n\ndetailed_description:\nThe target video uses an intimate, warm jazz music-video style with natural performance behavior, restrained camera movement, and stable warm amber lighting. Keep the live-house environment clearly structured and recognizable rather than heavily blurred, preserving coherent stage-to-audience depth and stable furniture and lighting placement throughout the camera movement.\n\n[Shot 1] <Subject 1> (S1) stands at the microphone on the stage of <Subject 2> and begins singing naturally in synchronization with <Audio 1>. Frame her in a front-biased medium shot, centered clearly enough for her facial features and mouth movements to remain stable and recognizable. She maintains a bright, approachable singing expression and lightly follows the rhythm with restrained natural body movement, without large gestures or exaggerated performance. Her mouth and jaw movements follow the female vocal in <Audio 1> closely and naturally. As she sings, her eyes gradually move across the audience rather than staring directly forward. The stage is illuminated by warm amber light. Beyond her, the audience area remains slightly darker but readable, with the established round tables, chairs, and warm table lamps maintaining their positions and spatial relationships. Preserve the same coherent live-house viewpoint and prevent background tables, chairs, lamps, or architectural details from drifting or rearranging.\n\nAs <Audio 1> reaches <d>[Japanese] ほら 今日も見つけた</d>, <Subject 1> continues singing while her gaze naturally searches across the seated audience. The camera begins a very slow, restrained pan following the direction of her gaze. Do not make this feel like a sudden camera move or a cut; maintain one continuous shot and preserve the geometry and depth of <Subject 2> as the framing gradually opens toward the audience.\n\nDuring <d>[Japanese] ちょっと困ったその顔</d>, the camera's gentle pan reveals <Subject 3>, a single audience member seated naturally at one of the existing tables. Keep <Subject 1> visible near the edge of the frame while placing <Subject 3> clearly along her line of sight, establishing an unmistakable visual connection between them without introducing another vocalist or duplicating <Subject 1>. <Subject 3> remains seated and makes no dramatic gesture, showing only a natural, mildly troubled expression that is noticeable but not deeply distressed.\n\n<Subject 1> notices <Subject 3> while continuing to sing. Her gaze settles on that person, and her bright performance expression changes subtly into a warmer, gentler smile, as though quietly acknowledging what she has noticed. The change is understated and compassionate rather than theatrical. End the scene with <Subject 1> still aware of <Subject 3>, preserving this gaze relationship so that her attention toward the audience member can continue naturally into the following scene.\n\noverall_soundscape:\nThe female singing from <Audio 1> remains the primary vocal element, with precise natural lip synchronization for <Subject 1>. No narration and no spoken dialogue. Any natural live-house environmental sound remains restrained and secondary to the Master Song.\n\nnon_diegetic_music:\nThe Master Song referenced by <Audio 1> continues naturally through the full 12-second scene, maintaining its existing musical arrangement, tempo, vocal performance, and continuity from Scene 01. The music remains clear and present while the lyric phrase <d>[Japanese] ほら 今日も見つけた ちょっと困ったその顔</d> provides the timing cue for <Subject 1>'s gaze toward <Subject 3> and her subtle expression change.\n\n"
+        "subject_definitions: \\<Subject 1> is the female jazz vocalist defined by \\<Picture 1>, preserving her exact identity, facial features, hairstyle, outfit, age impression, body proportions, and overall appearance. She is the lead singer performing at the microphone on stage. \\<Subject 2> is the dedicated jazz live-house stage defined by \\<Picture 2>, preserving its original stage architecture, interior design, lighting fixtures, spatial depth, and intimate live-performance atmosphere. \\<Subject 3> is the jazz band and its established stage arrangement defined by \\<Picture 4>, preserving the referenced musicians, instruments, individual appearances, and their exact relative positions on stage. The band continues performing after the vocalist finishes singing. \\<Audio 1> is the Master Song audio reference, defining the final sung phrase of the Final Chorus, the exact vocal timing, instrumental accompaniment, and the continuous musical transition into the Outro.  summary: [reference generation + audio reference] The target video is a 10-second cinematic jazz music-video scene showing \\<Subject 1> completing the final vocal phrase of the Final Chorus on the stage of \\<Subject 2>. She sings with a bright, confident smile, precisely synchronized with \\<Audio 1>. After completing the lyrics, she relaxes into a satisfied, gentle smile and remains standing at the microphone while \\<Subject 3> continues performing. The camera begins with a medium shot of the vocalist and gradually pulls back into a wide composition revealing the complete jazz band and stage. Warm amber and golden lighting remain consistent as the music transitions naturally into the Outro.  retention_analysis: \\<Subject 1> (appears throughout [Shot 1]): fully_preserved - The vocalist's identity, facial structure, hairstyle, clothing, body proportions, and recognizable appearance remain consistent with \\<Picture 1>. Her singing expression transitions naturally into a relaxed smile without changing her identity. \\<Subject 2> (appears throughout [Shot 1]): fully_preserved - The stage architecture, interior atmosphere, lighting arrangement, and spatial relationships remain faithful to \\<Picture 2>, including during the camera pullback. \\<Subject 3> (appears throughout [Shot 1]): fully_preserved - The musicians, instruments, and stage positions remain consistent with \\<Picture 4>. The band continues performing naturally without changes in musician count, instrument assignments, or stage arrangement. \\<Audio 1>: reference - The Master Song determines the exact timing of the final Japanese lyrics, the vocalist's phrasing and lip synchronization, the continuing band performance, and the transition from the Final Chorus into the Outro.  detailed_description: The target video uses a realistic, cinematic jazz music-video style with warm amber and golden stage lighting, natural facial expressions, authentic live-band performance, and smooth, restrained camera movement. The entire 10-second scene unfolds as one continuous shot without cuts.  [Shot 1] The scene returns from the audience interaction in Scene 10 to \\<Subject 1> performing on the intimate jazz live-house stage of \\<Subject 2>. The camera begins in a stable medium shot from a nearly frontal angle, placing the female vocalist prominently in the center of the composition. Her face, upper body, and microphone are clearly visible, while the stage and accompanying musicians remain recognizable behind her.  The vocalist stands naturally at the microphone, maintaining the same hairstyle, outfit, facial features, and overall appearance established by \\<Picture 1>. Her posture is upright but relaxed, with subtle, rhythmically appropriate body movement.  During the opening portion, \\<Subject 1> (S1) sings the final phrase of the Final Chorus with a bright, confident expression and a warm, emotionally expressive smile. Following the vocal melody and phrasing of \\<Audio 1>, she sings \\<d>[Japanese] どこにいたって 駆けつけるよ。\\</d>  Her lips, jaw, and facial muscles move naturally and precisely in synchronization with the Japanese vocals in the Master Song. Each syllable follows the actual sung timing, including sustained notes and the natural release of the final vowel. Her expression conveys reassurance, warmth, and emotional fulfillment rather than exaggerated theatrical excitement.  As the final sung note ends, her mouth closes naturally. She gently relaxes her facial expression into a quiet, satisfied smile. Her shoulders soften slightly, and she remains standing in front of the microphone, listening appreciatively to the continuing instrumental performance.  She does not resume singing after the final lyric. Her mouth remains naturally relaxed during the instrumental passage, with only subtle breathing and small, authentic facial movements.  Throughout the scene, \\<Subject 3> continues playing in the established jazz band arrangement shown in \\<Picture 4>. Each musician remains at the correct position with the correct instrument. Their hand movements, instrumental techniques, and restrained rhythmic body movements correspond naturally to the continuing music in \\<Audio 1>. The band does not stop when the vocalist finishes.  During the second half of the shot, the camera begins a slow, smooth dolly backward, gradually expanding the framing from the medium shot into a balanced wide shot. The movement is continuous and controlled, without sudden acceleration, abrupt zooming, or a change in camera angle.  As the camera withdraws, the complete band becomes visible around the vocalist. \\<Subject 1> remains in the central foreground, while the musicians occupy their established positions to the left and right behind her, matching \\<Picture 4>. The wider composition reveals the full performance area and the intimate architectural character of \\<Subject 2>.  Maintain the exact number of performers and their spatial relationships. Do not duplicate the vocalist, introduce additional musicians, or relocate instruments as the framing widens. Preserve consistent facial identities, realistic instrument geometry, stable microphone placement, and natural physical proportions.  The stage background remains clearly structured and recognizable. Lighting fixtures, stage boundaries, instruments, and interior details retain stable positions throughout the camera movement. Preserve coherent room geometry and natural depth without background warping, flickering, or excessive blur.  Warm amber and golden illumination continues across the entire stage, gently highlighting the vocalist and musicians. The lighting remains soft, inviting, and consistent after the final vocal phrase, without a sudden blackout, dramatic color change, or artificial lighting transition.  In the final moments, the camera settles into the wide composition. The vocalist stands calmly at the front of the stage with a peaceful, satisfied smile, listening to the band as the instrumental Outro continues.  The scene ends while the musicians are still performing, leaving a natural visual and musical continuation into Scene 12. There is no final performance pose, applause cue, or premature ending.  overall_soundscape: The soundscape follows \\<Audio 1>, with the female vocalist's final Japanese lyric clearly synchronized to her visible singing. After her vocal phrase ends, the live jazz band's instrumental performance continues seamlessly. Subtle natural live-house room acoustics support the performance without distracting from the music. No narration, additional spoken dialogue, audience applause, or unrelated sound effects.  non_diegetic_music: \\<Audio 1> provides the continuous Master Song soundtrack. Preserve the established jazz arrangement, instrumental balance, tempo, rhythm, and musical character exactly as heard in the reference. The female lead vocal completes the Final Chorus, followed by the uninterrupted instrumental transition into the Outro. Maintain clear instrumental definition, consistent musical energy, and natural continuity. Do not introduce additional instruments, new melodies, a separate background score, an artificial musical climax, or a premature fade-out.\n\n"
       ],
       "widgets_values_named": {
-        "value": "subject_definitions:\n<Subject 1> is the female jazz vocalist defined by <Picture 1>, preserving her identity, facial features, hairstyle, outfit, age impression, and overall appearance.\n<Subject 2> is the live-house performance space defined by <Picture 3>, preserving the established stage and audience layout, round tables, chairs, warm table lamps, and intimate jazz-club atmosphere.\n<Subject 3> is a single audience member seated in <Subject 2>, appearing naturally among the existing audience and showing a mildly troubled expression without appearing distressed.\n<Audio 1> is the Master Song audio reference, including the female vocal performance and the lyric phrase <d>[Japanese] ほら 今日も見つけた ちょっと困ったその顔</d>, which guides the singing, lip synchronization, musical timing, and the vocalist's visual reaction.\n\nsummary:\n[reference generation + audio reference] The target video is a 12-second music-video scene in which <Subject 1> begins singing onstage in <Subject 2>, naturally looking across the audience while performing. As <Audio 1> reaches the lyric about noticing a slightly troubled face, she notices <Subject 3> seated among the audience. Her expression shifts subtly from bright and approachable to a gentle, reassuring smile while her gaze settles on that one person.\n\nretention_analysis:\n<Subject 1> (appears throughout the scene): fully_preserved - preserve the female jazz vocalist's referenced identity, facial characteristics, hairstyle, outfit, and overall appearance while adding only the specified singing, subtle rhythmic movement, gaze direction, and expression change.\n<Subject 2> (appears throughout the scene): fully_preserved - preserve the referenced live-house environment as one coherent physical space, including the established stage, audience area, round tables, chairs, warm table lamps, room geometry, depth, and warm nighttime atmosphere.\n<Subject 3> (appears in the audience during the latter part of the scene): weak_reference - the audience member is introduced as a natural supporting person within the established audience area, with only the specified mildly troubled expression and seated behavior defining the role.\n<Audio 1>: reference - use the Master Song as the timing, vocal-performance, lyric-content, and lip-synchronization reference for <Subject 1>, with the visual discovery of <Subject 3> coordinated naturally to the lyric phrase.\n\ndetailed_description:\nThe target video uses an intimate, warm jazz music-video style with natural performance behavior, restrained camera movement, and stable warm amber lighting. Keep the live-house environment clearly structured and recognizable rather than heavily blurred, preserving coherent stage-to-audience depth and stable furniture and lighting placement throughout the camera movement.\n\n[Shot 1] <Subject 1> (S1) stands at the microphone on the stage of <Subject 2> and begins singing naturally in synchronization with <Audio 1>. Frame her in a front-biased medium shot, centered clearly enough for her facial features and mouth movements to remain stable and recognizable. She maintains a bright, approachable singing expression and lightly follows the rhythm with restrained natural body movement, without large gestures or exaggerated performance. Her mouth and jaw movements follow the female vocal in <Audio 1> closely and naturally. As she sings, her eyes gradually move across the audience rather than staring directly forward. The stage is illuminated by warm amber light. Beyond her, the audience area remains slightly darker but readable, with the established round tables, chairs, and warm table lamps maintaining their positions and spatial relationships. Preserve the same coherent live-house viewpoint and prevent background tables, chairs, lamps, or architectural details from drifting or rearranging.\n\nAs <Audio 1> reaches <d>[Japanese] ほら 今日も見つけた</d>, <Subject 1> continues singing while her gaze naturally searches across the seated audience. The camera begins a very slow, restrained pan following the direction of her gaze. Do not make this feel like a sudden camera move or a cut; maintain one continuous shot and preserve the geometry and depth of <Subject 2> as the framing gradually opens toward the audience.\n\nDuring <d>[Japanese] ちょっと困ったその顔</d>, the camera's gentle pan reveals <Subject 3>, a single audience member seated naturally at one of the existing tables. Keep <Subject 1> visible near the edge of the frame while placing <Subject 3> clearly along her line of sight, establishing an unmistakable visual connection between them without introducing another vocalist or duplicating <Subject 1>. <Subject 3> remains seated and makes no dramatic gesture, showing only a natural, mildly troubled expression that is noticeable but not deeply distressed.\n\n<Subject 1> notices <Subject 3> while continuing to sing. Her gaze settles on that person, and her bright performance expression changes subtly into a warmer, gentler smile, as though quietly acknowledging what she has noticed. The change is understated and compassionate rather than theatrical. End the scene with <Subject 1> still aware of <Subject 3>, preserving this gaze relationship so that her attention toward the audience member can continue naturally into the following scene.\n\noverall_soundscape:\nThe female singing from <Audio 1> remains the primary vocal element, with precise natural lip synchronization for <Subject 1>. No narration and no spoken dialogue. Any natural live-house environmental sound remains restrained and secondary to the Master Song.\n\nnon_diegetic_music:\nThe Master Song referenced by <Audio 1> continues naturally through the full 12-second scene, maintaining its existing musical arrangement, tempo, vocal performance, and continuity from Scene 01. The music remains clear and present while the lyric phrase <d>[Japanese] ほら 今日も見つけた ちょっと困ったその顔</d> provides the timing cue for <Subject 1>'s gaze toward <Subject 3> and her subtle expression change.\n\n"
+        "value": "subject_definitions: \\<Subject 1> is the female jazz vocalist defined by \\<Picture 1>, preserving her exact identity, facial features, hairstyle, outfit, age impression, body proportions, and overall appearance. She is the lead singer performing at the microphone on stage. \\<Subject 2> is the dedicated jazz live-house stage defined by \\<Picture 2>, preserving its original stage architecture, interior design, lighting fixtures, spatial depth, and intimate live-performance atmosphere. \\<Subject 3> is the jazz band and its established stage arrangement defined by \\<Picture 4>, preserving the referenced musicians, instruments, individual appearances, and their exact relative positions on stage. The band continues performing after the vocalist finishes singing. \\<Audio 1> is the Master Song audio reference, defining the final sung phrase of the Final Chorus, the exact vocal timing, instrumental accompaniment, and the continuous musical transition into the Outro.  summary: [reference generation + audio reference] The target video is a 10-second cinematic jazz music-video scene showing \\<Subject 1> completing the final vocal phrase of the Final Chorus on the stage of \\<Subject 2>. She sings with a bright, confident smile, precisely synchronized with \\<Audio 1>. After completing the lyrics, she relaxes into a satisfied, gentle smile and remains standing at the microphone while \\<Subject 3> continues performing. The camera begins with a medium shot of the vocalist and gradually pulls back into a wide composition revealing the complete jazz band and stage. Warm amber and golden lighting remain consistent as the music transitions naturally into the Outro.  retention_analysis: \\<Subject 1> (appears throughout [Shot 1]): fully_preserved - The vocalist's identity, facial structure, hairstyle, clothing, body proportions, and recognizable appearance remain consistent with \\<Picture 1>. Her singing expression transitions naturally into a relaxed smile without changing her identity. \\<Subject 2> (appears throughout [Shot 1]): fully_preserved - The stage architecture, interior atmosphere, lighting arrangement, and spatial relationships remain faithful to \\<Picture 2>, including during the camera pullback. \\<Subject 3> (appears throughout [Shot 1]): fully_preserved - The musicians, instruments, and stage positions remain consistent with \\<Picture 4>. The band continues performing naturally without changes in musician count, instrument assignments, or stage arrangement. \\<Audio 1>: reference - The Master Song determines the exact timing of the final Japanese lyrics, the vocalist's phrasing and lip synchronization, the continuing band performance, and the transition from the Final Chorus into the Outro.  detailed_description: The target video uses a realistic, cinematic jazz music-video style with warm amber and golden stage lighting, natural facial expressions, authentic live-band performance, and smooth, restrained camera movement. The entire 10-second scene unfolds as one continuous shot without cuts.  [Shot 1] The scene returns from the audience interaction in Scene 10 to \\<Subject 1> performing on the intimate jazz live-house stage of \\<Subject 2>. The camera begins in a stable medium shot from a nearly frontal angle, placing the female vocalist prominently in the center of the composition. Her face, upper body, and microphone are clearly visible, while the stage and accompanying musicians remain recognizable behind her.  The vocalist stands naturally at the microphone, maintaining the same hairstyle, outfit, facial features, and overall appearance established by \\<Picture 1>. Her posture is upright but relaxed, with subtle, rhythmically appropriate body movement.  During the opening portion, \\<Subject 1> (S1) sings the final phrase of the Final Chorus with a bright, confident expression and a warm, emotionally expressive smile. Following the vocal melody and phrasing of \\<Audio 1>, she sings \\<d>[Japanese] どこにいたって 駆けつけるよ。\\</d>  Her lips, jaw, and facial muscles move naturally and precisely in synchronization with the Japanese vocals in the Master Song. Each syllable follows the actual sung timing, including sustained notes and the natural release of the final vowel. Her expression conveys reassurance, warmth, and emotional fulfillment rather than exaggerated theatrical excitement.  As the final sung note ends, her mouth closes naturally. She gently relaxes her facial expression into a quiet, satisfied smile. Her shoulders soften slightly, and she remains standing in front of the microphone, listening appreciatively to the continuing instrumental performance.  She does not resume singing after the final lyric. Her mouth remains naturally relaxed during the instrumental passage, with only subtle breathing and small, authentic facial movements.  Throughout the scene, \\<Subject 3> continues playing in the established jazz band arrangement shown in \\<Picture 4>. Each musician remains at the correct position with the correct instrument. Their hand movements, instrumental techniques, and restrained rhythmic body movements correspond naturally to the continuing music in \\<Audio 1>. The band does not stop when the vocalist finishes.  During the second half of the shot, the camera begins a slow, smooth dolly backward, gradually expanding the framing from the medium shot into a balanced wide shot. The movement is continuous and controlled, without sudden acceleration, abrupt zooming, or a change in camera angle.  As the camera withdraws, the complete band becomes visible around the vocalist. \\<Subject 1> remains in the central foreground, while the musicians occupy their established positions to the left and right behind her, matching \\<Picture 4>. The wider composition reveals the full performance area and the intimate architectural character of \\<Subject 2>.  Maintain the exact number of performers and their spatial relationships. Do not duplicate the vocalist, introduce additional musicians, or relocate instruments as the framing widens. Preserve consistent facial identities, realistic instrument geometry, stable microphone placement, and natural physical proportions.  The stage background remains clearly structured and recognizable. Lighting fixtures, stage boundaries, instruments, and interior details retain stable positions throughout the camera movement. Preserve coherent room geometry and natural depth without background warping, flickering, or excessive blur.  Warm amber and golden illumination continues across the entire stage, gently highlighting the vocalist and musicians. The lighting remains soft, inviting, and consistent after the final vocal phrase, without a sudden blackout, dramatic color change, or artificial lighting transition.  In the final moments, the camera settles into the wide composition. The vocalist stands calmly at the front of the stage with a peaceful, satisfied smile, listening to the band as the instrumental Outro continues.  The scene ends while the musicians are still performing, leaving a natural visual and musical continuation into Scene 12. There is no final performance pose, applause cue, or premature ending.  overall_soundscape: The soundscape follows \\<Audio 1>, with the female vocalist's final Japanese lyric clearly synchronized to her visible singing. After her vocal phrase ends, the live jazz band's instrumental performance continues seamlessly. Subtle natural live-house room acoustics support the performance without distracting from the music. No narration, additional spoken dialogue, audience applause, or unrelated sound effects.  non_diegetic_music: \\<Audio 1> provides the continuous Master Song soundtrack. Preserve the established jazz arrangement, instrumental balance, tempo, rhythm, and musical character exactly as heard in the reference. The female lead vocal completes the Final Chorus, followed by the uninterrupted instrumental transition into the Outro. Maintain clear instrumental definition, consistent musical energy, and natural continuity. Do not introduce additional instruments, new melodies, a separate background score, an artificial musical climax, or a premature fade-out.\n\n"
       },
       "color": "#232",
       "bgcolor": "#353"
@@ -14652,10 +14652,10 @@
         "Node name for S&R": "PrimitiveStringMultiline"
       },
       "widgets_values": [
-        "subject_definitions:\n<Subject 1> is the female jazz vocalist defined by <Picture 1>, preserving her identity, facial features, hairstyle, outfit, age impression, and overall appearance.\n<Subject 2> is the live-house performance space defined by <Picture 3>, preserving the established stage, audience seating area, tables, lighting fixtures, spatial depth, and intimate jazz-club atmosphere as one coherent physical environment.\n<Subject 3> is the audience member already noticed by <Subject 1> in the preceding scene, seated in the audience area and maintaining a restrained outward appearance as though nothing is wrong.\n<Audio 1> is the Master Song audio reference used for the continuous musical and vocal timing of this 12-second scene, including the lyric passage <d>[Japanese] 平気なふりして歩いても なんとなくなら わかるのよ.</d>\n\nsummary:\n[reference generation + audio reference] The target video is a 12-second music-video scene in which <Subject 1> continues singing onstage in <Subject 2> while remaining quietly aware of <Subject 3> in the audience. <Subject 3> subtly composes themself and behaves as though everything is fine, while <Subject 1>'s calm, compassionate expression suggests that she understands something is being concealed. The camera primarily maintains a diagonal-front medium view of the vocalist, then slowly shifts its visual attention toward the audience member without an abrupt cut. The performance and lip movement follow <Audio 1> naturally.\n\nretention_analysis:\n<Subject 1> (appears throughout the scene): fully_preserved - her referenced identity, facial features, hairstyle, outfit, age impression, and overall appearance remain consistent while she sings and occasionally looks toward the audience member.\n<Subject 2> (appears throughout the scene): fully_preserved - the referenced live-house stage, audience area, tables, lighting, spatial relationships, and intimate jazz-club character remain recognizable and temporally stable throughout the slow camera movement.\n<Subject 3> (appears in the midground to background): fully_preserved - the same audience member noticed in the preceding scene remains seated in the established audience area and expresses concealed emotion only through restrained posture and facial behavior.\n<Audio 1>: reference - the Master Song provides the continuous musical, vocal, lyric, and performance timing for the scene, with <Subject 1>'s visible singing synchronized naturally to the referenced vocal passage.\n\ndetailed_description:\nThe target video uses an intimate, warm-toned jazz music-video style, maintaining a light and engaging musical feeling while adding a subtle layer of emotional storytelling. Preserve the established live-house environment as a coherent physical space, with stable room geometry and recognizable stage-to-audience depth. H3_R2V_Master_Instructions\n\n[Shot 1] The scene opens with <Subject 1> continuing her performance on the stage of <Subject 2>. Frame her primarily in a diagonal-front medium shot, positioned in the foreground or toward the left side of the frame. Keep her face clearly recognizable and visually stable. Warm stage lighting softly illuminates her face and upper body, while the audience area extends naturally into the midground and background. Tables, chairs, lights, and other visible structural elements from <Picture 3> remain consistently placed and do not drift, multiply, or rearrange as the camera moves.\n\n<Subject 1> continues singing naturally into the microphone in synchronization with <Audio 1>. Her mouth and jaw movements follow the sung vocal timing closely. H3_R2V_Master_Instructions Her body remains composed, with no exaggerated performance gestures or large movement. As the lyric passage <d>[Japanese] 平気なふりして歩いても なんとなくなら わかるのよ.</d> progresses, she occasionally directs a brief, natural glance toward <Subject 3> without turning her entire body away from the microphone. Her expression remains calm, warm, and gently perceptive, suggesting that she understands what the audience member is trying not to reveal.\n\n<Subject 3> remains seated in the audience area at a visually readable scale in the midground to background. The person subtly straightens their posture and composes themself, deliberately appearing as though nothing is wrong. Keep this acting understated: no dramatic gestures, no obvious distress, and no exaggerated sadness. The restrained expression should suggest an effort to look fine rather than openly displaying emotion. A nearby table lamp and weak reflected stage light softly reveal the person's face and posture without making the audience area as bright as the stage.\n\nDuring the middle portion of the shot, the camera makes a very slow, natural shift of visual attention from <Subject 1> toward <Subject 3>. Do not use an abrupt cut, sudden pan, rapid reframing, or aggressive zoom. Preserve both characters' spatial relationship so the viewer understands that <Subject 1> is looking toward the same audience member established in the preceding scene. Where composition permits, retain <Subject 1> in the foreground or along the left side while <Subject 3> remains deeper in the room, creating a clear visual line of awareness between them.\n\nToward the end of the 12 seconds, allow the visual emphasis to settle naturally back toward <Subject 1> without creating a separate dramatic camera move. She continues singing with the same gentle, understanding expression, preparing the following scene to return its primary focus to her. Keep the overall emotional weight light: the scene communicates quiet recognition and empathy beneath the lively jazz performance rather than turning somber or heavy. Maintain moderate environmental readability instead of excessive background blur, and keep the room geometry, furniture placement, lighting, and depth stable across the full shot. H3_R2V_Master_Instructions\n\noverall_soundscape:\nThe Master Song vocal performance remains the primary audible element associated with the scene, with <Subject 1>'s visible singing synchronized naturally to <Audio 1>. No narration and no spoken dialogue. Any natural live-house environmental sound remains restrained and secondary so that it does not compete with the song.\n\nnon_diegetic_music:\n<Audio 1> provides the continuous Master Song reference for this scene. Preserve its established musical character, tempo, rhythmic energy, instrumentation, and vocal flow without introducing an unrelated score or a new musical section.\n\n"
+        "subject_definitions: \\<Subject 1> is the female jazz vocalist defined by \\<Picture 1>, preserving her exact identity, facial features, hairstyle, outfit, age impression, body proportions, and overall appearance. She is the central performer and remains the only female vocalist in the scene.  \\<Subject 2> is the intimate jazz live-house stage defined by \\<Picture 2>, preserving its established stage architecture, performance area, warm amber and golden lighting, blue background accents, and recognizable spatial arrangement.  \\<Subject 3> is the jazz band and its established instrumental lineup and stage positioning defined by \\<Picture 4>. Preserve the same musicians, instruments, relative positions, and performance arrangement without introducing additional performers or changing the lineup.  \\<Audio 1> is the Master Song reference, specifically its final eight-second instrumental outro featuring a short brass hit and a running-bass ending. It provides the exact musical timing, rhythmic progression, and final ending cue.  summary: [reference generation + audio reference] The target video is an 8-second final music-video scene set on the intimate jazz live-house stage of \\<Subject 2>. After completing her vocal performance in the preceding scene, \\<Subject 1> stands at center stage while \\<Subject 3> finishes the instrumental outro. She briefly turns her gaze toward the band to enjoy their final performance, then looks forward again and gives a small, relaxed smile. The camera begins with a wide view of the complete stage and gradually moves slightly closer to the vocalist during the second half. The performance ends precisely with the final brass and running-bass phrases of \\<Audio 1>, bringing the entire music video to a concise, upbeat conclusion.  retention_analysis: \\<Subject 1> (appears in [Shot 1]): fully_preserved - Maintain the vocalist's exact appearance, facial identity, hairstyle, outfit, and natural proportions from \\<Picture 1>. Her performance has already ended, so she remains standing at center stage without resuming singing. Her only deliberate actions are one brief sideways glance toward the band, a return to facing forward, and a small, satisfied smile.  \\<Subject 2> (appears in [Shot 1]): fully_preserved - Retain the same jazz live-house stage, architectural structure, established lighting arrangement, warm amber and golden tones, and blue background accents from \\<Picture 2>. Preserve consistent spatial depth and stable background details throughout the camera movement.  \\<Subject 3> (appears in [Shot 1]): fully_preserved - Preserve the band members, instruments, and their exact stage positions from \\<Picture 4>. Their instrumental movements remain natural and synchronized with the closing brass hit and running-bass phrase. No additional musicians or instruments appear.  \\<Audio 1>: reference - Use the final outro of the Master Song as the precise musical and temporal reference. The short brass hit and running-bass ending determine the band members' final instrumental movements and the video's ending. Do not reinterpret the outro as a new musical section or extend the music beyond its actual ending.  detailed_description: The target video uses a realistic, intimate jazz music-video style with warm amber and golden stage lighting, restrained blue background accents, natural performance movements, and smooth cinematic camera motion. The entire eight-second scene is presented as one continuous shot without cuts.  [Shot 1] The scene begins immediately after the vocal performance of Scene 11, transitioning naturally into the instrumental outro of \\<Audio 1>.  The camera establishes a balanced wide shot of \\<Subject 2>, the familiar jazz live-house stage. \\<Subject 1>, the female jazz vocalist from \\<Picture 1>, stands at center stage in the same outfit and with the same hairstyle and facial appearance established throughout the music video.  Her singing has already ended. Her lips remain naturally closed, and she stands comfortably with relaxed shoulders and a calm, satisfied expression. She does not resume singing or perform any exaggerated gestures.  Around and behind her, \\<Subject 3>, the jazz band defined by \\<Picture 4>, continues playing the final instrumental passage. Every musician remains in the correct position relative to the vocalist and the other band members. The instruments and stage equipment retain their established appearances and locations.  During the opening portion, approximately 0–3 seconds, the camera maintains the wide composition, allowing the audience to see the vocalist and the complete band together. The musicians continue their natural performance movements in time with the Master Song's outro. The brass players perform the short closing brass accent at the corresponding moment in \\<Audio 1>, while the bass player continues the running-bass line with physically believable hand and finger movements.  The vocalist remains at center stage, listening to the band rather than singing. She turns her head slightly to one side only once, directing her gaze toward the musicians with a relaxed, appreciative expression. Her movement is small and unhurried, conveying genuine enjoyment of the band's final musical phrase.  During the second half, approximately 3–6 seconds, the camera begins a very slow, gentle push-in toward \\<Subject 1>. The movement is subtle and continuous, gradually changing the composition from a full-stage wide shot toward a moderately closer view of the vocalist.  The camera remains stable and centered, with no abrupt zoom, pan, orbit, or reframing. The band stays visible behind and around the vocalist, preserving the sense of a shared live performance rather than isolating her from the stage.  As the camera approaches, \\<Subject 1> naturally turns her head back toward the front. Her expression softens into a small, genuine smile, showing relaxed satisfaction at the completion of the performance. Her posture remains composed, with no large body movements.  Throughout this movement, preserve her facial identity and proportions. The background stage remains structurally consistent, with stable instrument placement, recognizable architectural details, and moderate depth of field. Avoid excessive background blur, shifting stage equipment, duplicated musicians, or changing spatial relationships.  During the final approximately 6–8 seconds, the camera completes its gentle approach and settles into a stable composition with \\<Subject 1> centered and the band still clearly recognizable in the background.  The musicians complete their final performance gestures in precise synchronization with the closing musical phrase of \\<Audio 1>. The running bass reaches its natural ending, and the band finishes together according to the Master Song's actual timing.  The vocalist maintains her small, satisfied smile while facing forward. The amber and golden lighting remains warm and consistent, with the subtle blue background accents still visible.  The final image holds briefly on the completed performance without introducing an extended emotional pause. The music and video end together at exactly eight seconds, creating a compact, cheerful, and musically satisfying conclusion to the music video.  overall_soundscape: The intimate acoustic character of the jazz live-house remains consistent with the preceding scenes. Any natural stage or room sounds remain restrained and secondary to the Master Song. Instrumental performance gestures are visually synchronized with the music. There is no narration, spoken dialogue, additional vocal performance, audience cheering, or applause. The scene concludes cleanly with the musical ending.  non_diegetic_music: \\<Audio 1> provides the final eight-second instrumental outro of the Master Song. Preserve the established upbeat jazz-pop character and existing jazz-band instrumentation. The ending features a short, clearly articulated brass hit and a lively, well-defined running-bass phrase, supported by the remaining instruments according to the original arrangement. Maintain the Master Song's actual tempo, phrasing, instrumental balance, and rhythmic timing. The brass accent and bass ending remain clear and musically present. Do not introduce additional musical phrases, instruments, vocals, or an artificial fade-out. The soundtrack reaches its natural final note precisely as the eight-second video ends.\n\n"
       ],
       "widgets_values_named": {
-        "value": "subject_definitions:\n<Subject 1> is the female jazz vocalist defined by <Picture 1>, preserving her identity, facial features, hairstyle, outfit, age impression, and overall appearance.\n<Subject 2> is the live-house performance space defined by <Picture 3>, preserving the established stage, audience seating area, tables, lighting fixtures, spatial depth, and intimate jazz-club atmosphere as one coherent physical environment.\n<Subject 3> is the audience member already noticed by <Subject 1> in the preceding scene, seated in the audience area and maintaining a restrained outward appearance as though nothing is wrong.\n<Audio 1> is the Master Song audio reference used for the continuous musical and vocal timing of this 12-second scene, including the lyric passage <d>[Japanese] 平気なふりして歩いても なんとなくなら わかるのよ.</d>\n\nsummary:\n[reference generation + audio reference] The target video is a 12-second music-video scene in which <Subject 1> continues singing onstage in <Subject 2> while remaining quietly aware of <Subject 3> in the audience. <Subject 3> subtly composes themself and behaves as though everything is fine, while <Subject 1>'s calm, compassionate expression suggests that she understands something is being concealed. The camera primarily maintains a diagonal-front medium view of the vocalist, then slowly shifts its visual attention toward the audience member without an abrupt cut. The performance and lip movement follow <Audio 1> naturally.\n\nretention_analysis:\n<Subject 1> (appears throughout the scene): fully_preserved - her referenced identity, facial features, hairstyle, outfit, age impression, and overall appearance remain consistent while she sings and occasionally looks toward the audience member.\n<Subject 2> (appears throughout the scene): fully_preserved - the referenced live-house stage, audience area, tables, lighting, spatial relationships, and intimate jazz-club character remain recognizable and temporally stable throughout the slow camera movement.\n<Subject 3> (appears in the midground to background): fully_preserved - the same audience member noticed in the preceding scene remains seated in the established audience area and expresses concealed emotion only through restrained posture and facial behavior.\n<Audio 1>: reference - the Master Song provides the continuous musical, vocal, lyric, and performance timing for the scene, with <Subject 1>'s visible singing synchronized naturally to the referenced vocal passage.\n\ndetailed_description:\nThe target video uses an intimate, warm-toned jazz music-video style, maintaining a light and engaging musical feeling while adding a subtle layer of emotional storytelling. Preserve the established live-house environment as a coherent physical space, with stable room geometry and recognizable stage-to-audience depth. H3_R2V_Master_Instructions\n\n[Shot 1] The scene opens with <Subject 1> continuing her performance on the stage of <Subject 2>. Frame her primarily in a diagonal-front medium shot, positioned in the foreground or toward the left side of the frame. Keep her face clearly recognizable and visually stable. Warm stage lighting softly illuminates her face and upper body, while the audience area extends naturally into the midground and background. Tables, chairs, lights, and other visible structural elements from <Picture 3> remain consistently placed and do not drift, multiply, or rearrange as the camera moves.\n\n<Subject 1> continues singing naturally into the microphone in synchronization with <Audio 1>. Her mouth and jaw movements follow the sung vocal timing closely. H3_R2V_Master_Instructions Her body remains composed, with no exaggerated performance gestures or large movement. As the lyric passage <d>[Japanese] 平気なふりして歩いても なんとなくなら わかるのよ.</d> progresses, she occasionally directs a brief, natural glance toward <Subject 3> without turning her entire body away from the microphone. Her expression remains calm, warm, and gently perceptive, suggesting that she understands what the audience member is trying not to reveal.\n\n<Subject 3> remains seated in the audience area at a visually readable scale in the midground to background. The person subtly straightens their posture and composes themself, deliberately appearing as though nothing is wrong. Keep this acting understated: no dramatic gestures, no obvious distress, and no exaggerated sadness. The restrained expression should suggest an effort to look fine rather than openly displaying emotion. A nearby table lamp and weak reflected stage light softly reveal the person's face and posture without making the audience area as bright as the stage.\n\nDuring the middle portion of the shot, the camera makes a very slow, natural shift of visual attention from <Subject 1> toward <Subject 3>. Do not use an abrupt cut, sudden pan, rapid reframing, or aggressive zoom. Preserve both characters' spatial relationship so the viewer understands that <Subject 1> is looking toward the same audience member established in the preceding scene. Where composition permits, retain <Subject 1> in the foreground or along the left side while <Subject 3> remains deeper in the room, creating a clear visual line of awareness between them.\n\nToward the end of the 12 seconds, allow the visual emphasis to settle naturally back toward <Subject 1> without creating a separate dramatic camera move. She continues singing with the same gentle, understanding expression, preparing the following scene to return its primary focus to her. Keep the overall emotional weight light: the scene communicates quiet recognition and empathy beneath the lively jazz performance rather than turning somber or heavy. Maintain moderate environmental readability instead of excessive background blur, and keep the room geometry, furniture placement, lighting, and depth stable across the full shot. H3_R2V_Master_Instructions\n\noverall_soundscape:\nThe Master Song vocal performance remains the primary audible element associated with the scene, with <Subject 1>'s visible singing synchronized naturally to <Audio 1>. No narration and no spoken dialogue. Any natural live-house environmental sound remains restrained and secondary so that it does not compete with the song.\n\nnon_diegetic_music:\n<Audio 1> provides the continuous Master Song reference for this scene. Preserve its established musical character, tempo, rhythmic energy, instrumentation, and vocal flow without introducing an unrelated score or a new musical section.\n\n"
+        "value": "subject_definitions: \\<Subject 1> is the female jazz vocalist defined by \\<Picture 1>, preserving her exact identity, facial features, hairstyle, outfit, age impression, body proportions, and overall appearance. She is the central performer and remains the only female vocalist in the scene.  \\<Subject 2> is the intimate jazz live-house stage defined by \\<Picture 2>, preserving its established stage architecture, performance area, warm amber and golden lighting, blue background accents, and recognizable spatial arrangement.  \\<Subject 3> is the jazz band and its established instrumental lineup and stage positioning defined by \\<Picture 4>. Preserve the same musicians, instruments, relative positions, and performance arrangement without introducing additional performers or changing the lineup.  \\<Audio 1> is the Master Song reference, specifically its final eight-second instrumental outro featuring a short brass hit and a running-bass ending. It provides the exact musical timing, rhythmic progression, and final ending cue.  summary: [reference generation + audio reference] The target video is an 8-second final music-video scene set on the intimate jazz live-house stage of \\<Subject 2>. After completing her vocal performance in the preceding scene, \\<Subject 1> stands at center stage while \\<Subject 3> finishes the instrumental outro. She briefly turns her gaze toward the band to enjoy their final performance, then looks forward again and gives a small, relaxed smile. The camera begins with a wide view of the complete stage and gradually moves slightly closer to the vocalist during the second half. The performance ends precisely with the final brass and running-bass phrases of \\<Audio 1>, bringing the entire music video to a concise, upbeat conclusion.  retention_analysis: \\<Subject 1> (appears in [Shot 1]): fully_preserved - Maintain the vocalist's exact appearance, facial identity, hairstyle, outfit, and natural proportions from \\<Picture 1>. Her performance has already ended, so she remains standing at center stage without resuming singing. Her only deliberate actions are one brief sideways glance toward the band, a return to facing forward, and a small, satisfied smile.  \\<Subject 2> (appears in [Shot 1]): fully_preserved - Retain the same jazz live-house stage, architectural structure, established lighting arrangement, warm amber and golden tones, and blue background accents from \\<Picture 2>. Preserve consistent spatial depth and stable background details throughout the camera movement.  \\<Subject 3> (appears in [Shot 1]): fully_preserved - Preserve the band members, instruments, and their exact stage positions from \\<Picture 4>. Their instrumental movements remain natural and synchronized with the closing brass hit and running-bass phrase. No additional musicians or instruments appear.  \\<Audio 1>: reference - Use the final outro of the Master Song as the precise musical and temporal reference. The short brass hit and running-bass ending determine the band members' final instrumental movements and the video's ending. Do not reinterpret the outro as a new musical section or extend the music beyond its actual ending.  detailed_description: The target video uses a realistic, intimate jazz music-video style with warm amber and golden stage lighting, restrained blue background accents, natural performance movements, and smooth cinematic camera motion. The entire eight-second scene is presented as one continuous shot without cuts.  [Shot 1] The scene begins immediately after the vocal performance of Scene 11, transitioning naturally into the instrumental outro of \\<Audio 1>.  The camera establishes a balanced wide shot of \\<Subject 2>, the familiar jazz live-house stage. \\<Subject 1>, the female jazz vocalist from \\<Picture 1>, stands at center stage in the same outfit and with the same hairstyle and facial appearance established throughout the music video.  Her singing has already ended. Her lips remain naturally closed, and she stands comfortably with relaxed shoulders and a calm, satisfied expression. She does not resume singing or perform any exaggerated gestures.  Around and behind her, \\<Subject 3>, the jazz band defined by \\<Picture 4>, continues playing the final instrumental passage. Every musician remains in the correct position relative to the vocalist and the other band members. The instruments and stage equipment retain their established appearances and locations.  During the opening portion, approximately 0–3 seconds, the camera maintains the wide composition, allowing the audience to see the vocalist and the complete band together. The musicians continue their natural performance movements in time with the Master Song's outro. The brass players perform the short closing brass accent at the corresponding moment in \\<Audio 1>, while the bass player continues the running-bass line with physically believable hand and finger movements.  The vocalist remains at center stage, listening to the band rather than singing. She turns her head slightly to one side only once, directing her gaze toward the musicians with a relaxed, appreciative expression. Her movement is small and unhurried, conveying genuine enjoyment of the band's final musical phrase.  During the second half, approximately 3–6 seconds, the camera begins a very slow, gentle push-in toward \\<Subject 1>. The movement is subtle and continuous, gradually changing the composition from a full-stage wide shot toward a moderately closer view of the vocalist.  The camera remains stable and centered, with no abrupt zoom, pan, orbit, or reframing. The band stays visible behind and around the vocalist, preserving the sense of a shared live performance rather than isolating her from the stage.  As the camera approaches, \\<Subject 1> naturally turns her head back toward the front. Her expression softens into a small, genuine smile, showing relaxed satisfaction at the completion of the performance. Her posture remains composed, with no large body movements.  Throughout this movement, preserve her facial identity and proportions. The background stage remains structurally consistent, with stable instrument placement, recognizable architectural details, and moderate depth of field. Avoid excessive background blur, shifting stage equipment, duplicated musicians, or changing spatial relationships.  During the final approximately 6–8 seconds, the camera completes its gentle approach and settles into a stable composition with \\<Subject 1> centered and the band still clearly recognizable in the background.  The musicians complete their final performance gestures in precise synchronization with the closing musical phrase of \\<Audio 1>. The running bass reaches its natural ending, and the band finishes together according to the Master Song's actual timing.  The vocalist maintains her small, satisfied smile while facing forward. The amber and golden lighting remains warm and consistent, with the subtle blue background accents still visible.  The final image holds briefly on the completed performance without introducing an extended emotional pause. The music and video end together at exactly eight seconds, creating a compact, cheerful, and musically satisfying conclusion to the music video.  overall_soundscape: The intimate acoustic character of the jazz live-house remains consistent with the preceding scenes. Any natural stage or room sounds remain restrained and secondary to the Master Song. Instrumental performance gestures are visually synchronized with the music. There is no narration, spoken dialogue, additional vocal performance, audience cheering, or applause. The scene concludes cleanly with the musical ending.  non_diegetic_music: \\<Audio 1> provides the final eight-second instrumental outro of the Master Song. Preserve the established upbeat jazz-pop character and existing jazz-band instrumentation. The ending features a short, clearly articulated brass hit and a lively, well-defined running-bass phrase, supported by the remaining instruments according to the original arrangement. Maintain the Master Song's actual tempo, phrasing, instrumental balance, and rhythmic timing. The brass accent and bass ending remain clear and musically present. Do not introduce additional musical phrases, instruments, vocals, or an artificial fade-out. The soundtrack reaches its natural final note precisely as the eight-second video ends.\n\n"
       },
       "color": "#232",
       "bgcolor": "#353"
@@ -14775,11 +14775,11 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "ステージから客席まで見える同一ライブハウス.png",
+        "ジャズ専用ライブハウス・ステージ.png",
         "image"
       ],
       "widgets_values_named": {
-        "image": "ステージから客席まで見える同一ライブハウス.png",
+        "image": "ジャズ専用ライブハウス・ステージ.png",
         "upload": "image"
       }
     },
@@ -14816,11 +14816,11 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "ジャズ専用ライブハウス・ステージ.png",
+        "ステージから客席まで見える同一ライブハウス.png",
         "image"
       ],
       "widgets_values_named": {
-        "image": "ジャズ専用ライブハウス・ステージ.png",
+        "image": "ステージから客席まで見える同一ライブハウス.png",
         "upload": "image"
       }
     },
@@ -14839,7 +14839,7 @@
         "collapsed": false
       },
       "order": 237,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -14859,11 +14859,11 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "ウオーターフロント・都市型プロムナード.png",
+        "ジャズバンド編成・ステージ配置リファレンス.png",
         "image"
       ],
       "widgets_values_named": {
-        "image": "ウオーターフロント・都市型プロムナード.png",
+        "image": "ジャズバンド編成・ステージ配置リファレンス.png",
         "upload": "image"
       }
     },
@@ -14923,7 +14923,7 @@
         "collapsed": false
       },
       "order": 239,
-      "mode": 4,
+      "mode": 0,
       "inputs": [],
       "outputs": [
         {
@@ -14943,11 +14943,11 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "初秋の公園・屋外テラス.png",
+        "ジャズバンド編成・ステージ配置リファレンス.png",
         "image"
       ],
       "widgets_values_named": {
-        "image": "初秋の公園・屋外テラス.png",
+        "image": "ジャズバンド編成・ステージ配置リファレンス.png",
         "upload": "image"
       }
     },
@@ -14987,12 +14987,12 @@
       },
       "widgets_values": [
         "simple",
-        4,
+        3,
         1
       ],
       "widgets_values_named": {
         "scheduler": "simple",
-        "steps": 4,
+        "steps": 3,
         "denoise": 1
       },
       "color": "#232",
@@ -15027,10 +15027,10 @@
         "Node name for S&R": "PrimitiveFloat"
       },
       "widgets_values": [
-        10
+        13
       ],
       "widgets_values_named": {
-        "value": 10
+        "value": 13
       },
       "color": "#322",
       "bgcolor": "#533"
@@ -15064,10 +15064,10 @@
         "Node name for S&R": "PrimitiveFloat"
       },
       "widgets_values": [
-        12
+        10
       ],
       "widgets_values_named": {
-        "value": 12
+        "value": 10
       },
       "color": "#322",
       "bgcolor": "#533"
@@ -15101,10 +15101,10 @@
         "Node name for S&R": "PrimitiveFloat"
       },
       "widgets_values": [
-        12
+        8
       ],
       "widgets_values_named": {
-        "value": 12
+        "value": 8
       },
       "color": "#322",
       "bgcolor": "#533"
@@ -15612,12 +15612,12 @@
       "id": 1094,
       "type": "MarkdownNote",
       "pos": [
-        -287.5196931647437,
-        4685.722063551074
+        -325.49339391381596,
+        4698.551016506842
       ],
       "size": [
-        547.0737263474755,
-        135.99961646175962
+        564.0079442490888,
+        142.1575138805274
       ],
       "flags": {},
       "order": 246,
@@ -15627,10 +15627,10 @@
       "title": "Recommended Settings for 768p Output (16:9)",
       "properties": {},
       "widgets_values": [
-        "| Mode | MP | 1st Pass | Latent Scale | RTX VSR Scale | Final Resolution | Recommendation |\n|---|---:|---:|---:|---:|---:|---|\n| FAST | 0.2 | 608 x 352 | 1.60x | 1.40x | 1344 x 808 | 長尺・速度優先 |\n| BALANCED | 0.3 | 736 x 416 | 1.35x | 1.41x | 1400 x 816 | 通常制作・バランス重視 |\n| QUALITY | 0.4 | 864 x 480 | 1.40x | 1.14x | 1384 x 768 | 画質優先・推奨 |"
+        "| Mode | MP | 1st Pass | Latent Scale | RTX VSR Scale | Final Resolution | Recommendation |\n|---|---:|---:|---:|---:|---:|---|\n| FAST | 0.2 | 608 x 352 | 1.60x | 1.40x | 1344 x 808 | 長尺・速度優先 |\n| BALANCED | 0.3 | 736 x 416 | 1.60x | 1.20x | 1424 × 808 | 通常制作・バランス重視 |\n| QUALITY | 0.4 | 864 x 480 | 1.40x | 1.14x | 1384 x 768 | 画質優先・推奨 |"
       ],
       "widgets_values_named": {
-        "text": "| Mode | MP | 1st Pass | Latent Scale | RTX VSR Scale | Final Resolution | Recommendation |\n|---|---:|---:|---:|---:|---:|---|\n| FAST | 0.2 | 608 x 352 | 1.60x | 1.40x | 1344 x 808 | 長尺・速度優先 |\n| BALANCED | 0.3 | 736 x 416 | 1.35x | 1.41x | 1400 x 816 | 通常制作・バランス重視 |\n| QUALITY | 0.4 | 864 x 480 | 1.40x | 1.14x | 1384 x 768 | 画質優先・推奨 |"
+        "text": "| Mode | MP | 1st Pass | Latent Scale | RTX VSR Scale | Final Resolution | Recommendation |\n|---|---:|---:|---:|---:|---:|---|\n| FAST | 0.2 | 608 x 352 | 1.60x | 1.40x | 1344 x 808 | 長尺・速度優先 |\n| BALANCED | 0.3 | 736 x 416 | 1.60x | 1.20x | 1424 × 808 | 通常制作・バランス重視 |\n| QUALITY | 0.4 | 864 x 480 | 1.40x | 1.14x | 1384 x 768 | 画質優先・推奨 |"
       },
       "color": "#432",
       "bgcolor": "#653"
@@ -19621,6 +19621,70 @@
       "MODEL"
     ],
     [
+      892,
+      456,
+      0,
+      478,
+      1,
+      "FLOAT"
+    ],
+    [
+      1162,
+      532,
+      0,
+      668,
+      0,
+      "FLOAT"
+    ],
+    [
+      2150,
+      1108,
+      0,
+      1064,
+      2,
+      "INT"
+    ],
+    [
+      2160,
+      1114,
+      0,
+      1096,
+      2,
+      "INT"
+    ],
+    [
+      2170,
+      1120,
+      0,
+      1097,
+      2,
+      "INT"
+    ],
+    [
+      2180,
+      1126,
+      0,
+      1098,
+      2,
+      "INT"
+    ],
+    [
+      2190,
+      1132,
+      0,
+      1099,
+      2,
+      "INT"
+    ],
+    [
+      2200,
+      1138,
+      0,
+      1100,
+      2,
+      "INT"
+    ],
+    [
       498,
       131,
       1,
@@ -19659,14 +19723,6 @@
       685,
       0,
       "IMAGE"
-    ],
-    [
-      1669,
-      1062,
-      0,
-      685,
-      1,
-      "FLOAT"
     ],
     [
       260,
@@ -19757,68 +19813,12 @@
       "FLOAT"
     ],
     [
-      892,
-      456,
+      1669,
+      1062,
       0,
-      478,
+      685,
       1,
       "FLOAT"
-    ],
-    [
-      1162,
-      532,
-      0,
-      668,
-      0,
-      "FLOAT"
-    ],
-    [
-      2150,
-      1108,
-      0,
-      1064,
-      2,
-      "INT"
-    ],
-    [
-      2160,
-      1114,
-      0,
-      1096,
-      2,
-      "INT"
-    ],
-    [
-      2170,
-      1120,
-      0,
-      1097,
-      2,
-      "INT"
-    ],
-    [
-      2180,
-      1126,
-      0,
-      1098,
-      2,
-      "INT"
-    ],
-    [
-      2190,
-      1132,
-      0,
-      1099,
-      2,
-      "INT"
-    ],
-    [
-      2200,
-      1138,
-      0,
-      1100,
-      2,
-      "INT"
     ]
   ],
   "groups": [
@@ -21262,11 +21262,11 @@
               "cnr_id": "comfy-core"
             },
             "widgets_values": [
-              523162227488171,
+              122133368946863,
               "randomize"
             ],
             "widgets_values_named": {
-              "noise_seed": 523162227488171,
+              "noise_seed": 122133368946863,
               "control_after_generate": "randomize"
             }
           },
@@ -23414,6 +23414,78 @@
             "type": "INT"
           },
           {
+            "id": 1213,
+            "origin_id": -10,
+            "origin_slot": 17,
+            "target_id": 544,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1214,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 544,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1217,
+            "origin_id": -10,
+            "origin_slot": 20,
+            "target_id": 538,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1218,
+            "origin_id": -10,
+            "origin_slot": 21,
+            "target_id": 538,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1215,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 538,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 1216,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 538,
+            "target_slot": 7,
+            "type": "INT"
+          },
+          {
+            "id": 1219,
+            "origin_id": -10,
+            "origin_slot": 22,
+            "target_id": 538,
+            "target_slot": 8,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1515,
+            "origin_id": -10,
+            "origin_slot": 25,
+            "target_id": 942,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1516,
+            "origin_id": -10,
+            "origin_slot": 26,
+            "target_id": 942,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
             "id": 904,
             "origin_id": -10,
             "origin_slot": 1,
@@ -23508,78 +23580,6 @@
             "target_id": 539,
             "target_slot": 13,
             "type": "INT"
-          },
-          {
-            "id": 1213,
-            "origin_id": -10,
-            "origin_slot": 17,
-            "target_id": 544,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1214,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 544,
-            "target_slot": 2,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1217,
-            "origin_id": -10,
-            "origin_slot": 20,
-            "target_id": 538,
-            "target_slot": 4,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1218,
-            "origin_id": -10,
-            "origin_slot": 21,
-            "target_id": 538,
-            "target_slot": 5,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1215,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 538,
-            "target_slot": 6,
-            "type": "INT"
-          },
-          {
-            "id": 1216,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 538,
-            "target_slot": 7,
-            "type": "INT"
-          },
-          {
-            "id": 1219,
-            "origin_id": -10,
-            "origin_slot": 22,
-            "target_id": 538,
-            "target_slot": 8,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1515,
-            "origin_id": -10,
-            "origin_slot": 25,
-            "target_id": 942,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1516,
-            "origin_id": -10,
-            "origin_slot": 26,
-            "target_id": 942,
-            "target_slot": 2,
-            "type": "FLOAT"
           },
           {
             "id": 426,
@@ -25262,11 +25262,11 @@
               "cnr_id": "comfy-core"
             },
             "widgets_values": [
-              206360883329327,
+              141684408456272,
               "randomize"
             ],
             "widgets_values_named": {
-              "noise_seed": 206360883329327,
+              "noise_seed": 141684408456272,
               "control_after_generate": "randomize"
             }
           },
@@ -27051,6 +27051,78 @@
             "type": "INT"
           },
           {
+            "id": 1700,
+            "origin_id": -10,
+            "origin_slot": 17,
+            "target_id": 570,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1701,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 570,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1704,
+            "origin_id": -10,
+            "origin_slot": 20,
+            "target_id": 564,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1705,
+            "origin_id": -10,
+            "origin_slot": 21,
+            "target_id": 564,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1702,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 564,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 1703,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 564,
+            "target_slot": 7,
+            "type": "INT"
+          },
+          {
+            "id": 1706,
+            "origin_id": -10,
+            "origin_slot": 22,
+            "target_id": 564,
+            "target_slot": 8,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1235,
+            "origin_id": -10,
+            "origin_slot": 25,
+            "target_id": 968,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1236,
+            "origin_id": -10,
+            "origin_slot": 26,
+            "target_id": 968,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
             "id": 2119,
             "origin_id": -10,
             "origin_slot": 0,
@@ -27195,22 +27267,6 @@
             "type": "INT"
           },
           {
-            "id": 1700,
-            "origin_id": -10,
-            "origin_slot": 17,
-            "target_id": 570,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1701,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 570,
-            "target_slot": 2,
-            "type": "FLOAT"
-          },
-          {
             "id": 985,
             "origin_id": -10,
             "origin_slot": 6,
@@ -27241,62 +27297,6 @@
             "target_id": 565,
             "target_slot": 13,
             "type": "INT"
-          },
-          {
-            "id": 1704,
-            "origin_id": -10,
-            "origin_slot": 20,
-            "target_id": 564,
-            "target_slot": 4,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1705,
-            "origin_id": -10,
-            "origin_slot": 21,
-            "target_id": 564,
-            "target_slot": 5,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1702,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 564,
-            "target_slot": 6,
-            "type": "INT"
-          },
-          {
-            "id": 1703,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 564,
-            "target_slot": 7,
-            "type": "INT"
-          },
-          {
-            "id": 1706,
-            "origin_id": -10,
-            "origin_slot": 22,
-            "target_id": 564,
-            "target_slot": 8,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1235,
-            "origin_id": -10,
-            "origin_slot": 25,
-            "target_id": 968,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1236,
-            "origin_id": -10,
-            "origin_slot": 26,
-            "target_id": 968,
-            "target_slot": 2,
-            "type": "FLOAT"
           },
           {
             "id": 2221,
@@ -29255,11 +29255,11 @@
               "cnr_id": "comfy-core"
             },
             "widgets_values": [
-              6584471571624,
+              1036067237818534,
               "randomize"
             ],
             "widgets_values_named": {
-              "noise_seed": 6584471571624,
+              "noise_seed": 1036067237818534,
               "control_after_generate": "randomize"
             }
           },
@@ -30688,6 +30688,78 @@
             "type": "INT"
           },
           {
+            "id": 1770,
+            "origin_id": -10,
+            "origin_slot": 17,
+            "target_id": 645,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1771,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 645,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1774,
+            "origin_id": -10,
+            "origin_slot": 20,
+            "target_id": 640,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1775,
+            "origin_id": -10,
+            "origin_slot": 21,
+            "target_id": 640,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1772,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 640,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 1773,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 640,
+            "target_slot": 7,
+            "type": "INT"
+          },
+          {
+            "id": 1776,
+            "origin_id": -10,
+            "origin_slot": 22,
+            "target_id": 640,
+            "target_slot": 8,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1790,
+            "origin_id": -10,
+            "origin_slot": 25,
+            "target_id": 973,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1791,
+            "origin_id": -10,
+            "origin_slot": 26,
+            "target_id": 973,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
             "id": 1716,
             "origin_id": -10,
             "origin_slot": 0,
@@ -30862,78 +30934,6 @@
             "target_id": 641,
             "target_slot": 13,
             "type": "INT"
-          },
-          {
-            "id": 1770,
-            "origin_id": -10,
-            "origin_slot": 17,
-            "target_id": 645,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1771,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 645,
-            "target_slot": 2,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1774,
-            "origin_id": -10,
-            "origin_slot": 20,
-            "target_id": 640,
-            "target_slot": 4,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1775,
-            "origin_id": -10,
-            "origin_slot": 21,
-            "target_id": 640,
-            "target_slot": 5,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1772,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 640,
-            "target_slot": 6,
-            "type": "INT"
-          },
-          {
-            "id": 1773,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 640,
-            "target_slot": 7,
-            "type": "INT"
-          },
-          {
-            "id": 1776,
-            "origin_id": -10,
-            "origin_slot": 22,
-            "target_id": 640,
-            "target_slot": 8,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1790,
-            "origin_id": -10,
-            "origin_slot": 25,
-            "target_id": 973,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1791,
-            "origin_id": -10,
-            "origin_slot": 26,
-            "target_id": 973,
-            "target_slot": 2,
-            "type": "FLOAT"
           },
           {
             "id": 2222,
@@ -32892,11 +32892,11 @@
               "cnr_id": "comfy-core"
             },
             "widgets_values": [
-              159388577382327,
+              55488838768785,
               "randomize"
             ],
             "widgets_values_named": {
-              "noise_seed": 159388577382327,
+              "noise_seed": 55488838768785,
               "control_after_generate": "randomize"
             }
           },
@@ -34325,6 +34325,78 @@
             "type": "INT"
           },
           {
+            "id": 1839,
+            "origin_id": -10,
+            "origin_slot": 20,
+            "target_id": 577,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1840,
+            "origin_id": -10,
+            "origin_slot": 21,
+            "target_id": 577,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1837,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 577,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 1838,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 577,
+            "target_slot": 7,
+            "type": "INT"
+          },
+          {
+            "id": 1841,
+            "origin_id": -10,
+            "origin_slot": 22,
+            "target_id": 577,
+            "target_slot": 8,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1835,
+            "origin_id": -10,
+            "origin_slot": 17,
+            "target_id": 583,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1836,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 583,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1855,
+            "origin_id": -10,
+            "origin_slot": 25,
+            "target_id": 978,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1856,
+            "origin_id": -10,
+            "origin_slot": 26,
+            "target_id": 978,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
             "id": 1810,
             "origin_id": -10,
             "origin_slot": 0,
@@ -34499,78 +34571,6 @@
             "target_id": 578,
             "target_slot": 13,
             "type": "INT"
-          },
-          {
-            "id": 1839,
-            "origin_id": -10,
-            "origin_slot": 20,
-            "target_id": 577,
-            "target_slot": 4,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1840,
-            "origin_id": -10,
-            "origin_slot": 21,
-            "target_id": 577,
-            "target_slot": 5,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1837,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 577,
-            "target_slot": 6,
-            "type": "INT"
-          },
-          {
-            "id": 1838,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 577,
-            "target_slot": 7,
-            "type": "INT"
-          },
-          {
-            "id": 1841,
-            "origin_id": -10,
-            "origin_slot": 22,
-            "target_id": 577,
-            "target_slot": 8,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1835,
-            "origin_id": -10,
-            "origin_slot": 17,
-            "target_id": 583,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1836,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 583,
-            "target_slot": 2,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1855,
-            "origin_id": -10,
-            "origin_slot": 25,
-            "target_id": 978,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1856,
-            "origin_id": -10,
-            "origin_slot": 26,
-            "target_id": 978,
-            "target_slot": 2,
-            "type": "FLOAT"
           },
           {
             "id": 2223,
@@ -36529,11 +36529,11 @@
               "cnr_id": "comfy-core"
             },
             "widgets_values": [
-              203347622626723,
+              638093279921729,
               "randomize"
             ],
             "widgets_values_named": {
-              "noise_seed": 203347622626723,
+              "noise_seed": 638093279921729,
               "control_after_generate": "randomize"
             }
           },
@@ -37962,6 +37962,78 @@
             "type": "INT"
           },
           {
+            "id": 1900,
+            "origin_id": -10,
+            "origin_slot": 17,
+            "target_id": 596,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1901,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 596,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1904,
+            "origin_id": -10,
+            "origin_slot": 20,
+            "target_id": 590,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1905,
+            "origin_id": -10,
+            "origin_slot": 21,
+            "target_id": 590,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1902,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 590,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 1903,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 590,
+            "target_slot": 7,
+            "type": "INT"
+          },
+          {
+            "id": 1906,
+            "origin_id": -10,
+            "origin_slot": 22,
+            "target_id": 590,
+            "target_slot": 8,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1920,
+            "origin_id": -10,
+            "origin_slot": 25,
+            "target_id": 983,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1921,
+            "origin_id": -10,
+            "origin_slot": 26,
+            "target_id": 983,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
             "id": 1875,
             "origin_id": -10,
             "origin_slot": 0,
@@ -38136,78 +38208,6 @@
             "target_id": 591,
             "target_slot": 13,
             "type": "INT"
-          },
-          {
-            "id": 1900,
-            "origin_id": -10,
-            "origin_slot": 17,
-            "target_id": 596,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1901,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 596,
-            "target_slot": 2,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1904,
-            "origin_id": -10,
-            "origin_slot": 20,
-            "target_id": 590,
-            "target_slot": 4,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1905,
-            "origin_id": -10,
-            "origin_slot": 21,
-            "target_id": 590,
-            "target_slot": 5,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1902,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 590,
-            "target_slot": 6,
-            "type": "INT"
-          },
-          {
-            "id": 1903,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 590,
-            "target_slot": 7,
-            "type": "INT"
-          },
-          {
-            "id": 1906,
-            "origin_id": -10,
-            "origin_slot": 22,
-            "target_id": 590,
-            "target_slot": 8,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1920,
-            "origin_id": -10,
-            "origin_slot": 25,
-            "target_id": 983,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1921,
-            "origin_id": -10,
-            "origin_slot": 26,
-            "target_id": 983,
-            "target_slot": 2,
-            "type": "FLOAT"
           },
           {
             "id": 2224,
@@ -40166,11 +40166,11 @@
               "cnr_id": "comfy-core"
             },
             "widgets_values": [
-              850502584423915,
+              622189946251799,
               "randomize"
             ],
             "widgets_values_named": {
-              "noise_seed": 850502584423915,
+              "noise_seed": 622189946251799,
               "control_after_generate": "randomize"
             }
           },
@@ -41599,6 +41599,78 @@
             "type": "INT"
           },
           {
+            "id": 1967,
+            "origin_id": -10,
+            "origin_slot": 17,
+            "target_id": 609,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1968,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 609,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1971,
+            "origin_id": -10,
+            "origin_slot": 20,
+            "target_id": 603,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1972,
+            "origin_id": -10,
+            "origin_slot": 21,
+            "target_id": 603,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1969,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 603,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 1970,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 603,
+            "target_slot": 7,
+            "type": "INT"
+          },
+          {
+            "id": 1973,
+            "origin_id": -10,
+            "origin_slot": 22,
+            "target_id": 603,
+            "target_slot": 8,
+            "type": "FLOAT"
+          },
+          {
+            "id": 1987,
+            "origin_id": -10,
+            "origin_slot": 25,
+            "target_id": 988,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 1988,
+            "origin_id": -10,
+            "origin_slot": 26,
+            "target_id": 988,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
             "id": 1940,
             "origin_id": -10,
             "origin_slot": 0,
@@ -41773,78 +41845,6 @@
             "target_id": 604,
             "target_slot": 13,
             "type": "INT"
-          },
-          {
-            "id": 1967,
-            "origin_id": -10,
-            "origin_slot": 17,
-            "target_id": 609,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1968,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 609,
-            "target_slot": 2,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1971,
-            "origin_id": -10,
-            "origin_slot": 20,
-            "target_id": 603,
-            "target_slot": 4,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1972,
-            "origin_id": -10,
-            "origin_slot": 21,
-            "target_id": 603,
-            "target_slot": 5,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1969,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 603,
-            "target_slot": 6,
-            "type": "INT"
-          },
-          {
-            "id": 1970,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 603,
-            "target_slot": 7,
-            "type": "INT"
-          },
-          {
-            "id": 1973,
-            "origin_id": -10,
-            "origin_slot": 22,
-            "target_id": 603,
-            "target_slot": 8,
-            "type": "FLOAT"
-          },
-          {
-            "id": 1987,
-            "origin_id": -10,
-            "origin_slot": 25,
-            "target_id": 988,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 1988,
-            "origin_id": -10,
-            "origin_slot": 26,
-            "target_id": 988,
-            "target_slot": 2,
-            "type": "FLOAT"
           },
           {
             "id": 2225,
@@ -43351,11 +43351,11 @@
               "cnr_id": "comfy-core"
             },
             "widgets_values": [
-              541780845478622,
+              325663006649665,
               "randomize"
             ],
             "widgets_values_named": {
-              "noise_seed": 541780845478622,
+              "noise_seed": 325663006649665,
               "control_after_generate": "randomize"
             }
           },
@@ -44922,6 +44922,78 @@
             "type": "LATENT"
           },
           {
+            "id": 2033,
+            "origin_id": -10,
+            "origin_slot": 19,
+            "target_id": 709,
+            "target_slot": 4,
+            "type": "FLOAT"
+          },
+          {
+            "id": 2034,
+            "origin_id": -10,
+            "origin_slot": 20,
+            "target_id": 709,
+            "target_slot": 5,
+            "type": "FLOAT"
+          },
+          {
+            "id": 2031,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 709,
+            "target_slot": 6,
+            "type": "INT"
+          },
+          {
+            "id": 2032,
+            "origin_id": -10,
+            "origin_slot": 18,
+            "target_id": 709,
+            "target_slot": 7,
+            "type": "INT"
+          },
+          {
+            "id": 2035,
+            "origin_id": -10,
+            "origin_slot": 21,
+            "target_id": 709,
+            "target_slot": 8,
+            "type": "FLOAT"
+          },
+          {
+            "id": 2029,
+            "origin_id": -10,
+            "origin_slot": 16,
+            "target_id": 658,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 2030,
+            "origin_id": -10,
+            "origin_slot": 17,
+            "target_id": 658,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
+            "id": 2048,
+            "origin_id": -10,
+            "origin_slot": 24,
+            "target_id": 932,
+            "target_slot": 1,
+            "type": "INT"
+          },
+          {
+            "id": 2049,
+            "origin_id": -10,
+            "origin_slot": 25,
+            "target_id": 932,
+            "target_slot": 2,
+            "type": "FLOAT"
+          },
+          {
             "id": 2002,
             "origin_id": -10,
             "origin_slot": 0,
@@ -45042,46 +45114,6 @@
             "type": "INT"
           },
           {
-            "id": 2033,
-            "origin_id": -10,
-            "origin_slot": 19,
-            "target_id": 709,
-            "target_slot": 4,
-            "type": "FLOAT"
-          },
-          {
-            "id": 2034,
-            "origin_id": -10,
-            "origin_slot": 20,
-            "target_id": 709,
-            "target_slot": 5,
-            "type": "FLOAT"
-          },
-          {
-            "id": 2031,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 709,
-            "target_slot": 6,
-            "type": "INT"
-          },
-          {
-            "id": 2032,
-            "origin_id": -10,
-            "origin_slot": 18,
-            "target_id": 709,
-            "target_slot": 7,
-            "type": "INT"
-          },
-          {
-            "id": 2035,
-            "origin_id": -10,
-            "origin_slot": 21,
-            "target_id": 709,
-            "target_slot": 8,
-            "type": "FLOAT"
-          },
-          {
             "id": 2006,
             "origin_id": -10,
             "origin_slot": 5,
@@ -45114,43 +45146,11 @@
             "type": "INT"
           },
           {
-            "id": 2029,
-            "origin_id": -10,
-            "origin_slot": 16,
-            "target_id": 658,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 2030,
-            "origin_id": -10,
-            "origin_slot": 17,
-            "target_id": 658,
-            "target_slot": 2,
-            "type": "FLOAT"
-          },
-          {
             "id": 2219,
             "origin_id": -10,
             "origin_slot": 23,
             "target_id": 933,
             "target_slot": 3,
-            "type": "FLOAT"
-          },
-          {
-            "id": 2048,
-            "origin_id": -10,
-            "origin_slot": 24,
-            "target_id": 932,
-            "target_slot": 1,
-            "type": "INT"
-          },
-          {
-            "id": 2049,
-            "origin_id": -10,
-            "origin_slot": 25,
-            "target_id": 932,
-            "target_slot": 2,
             "type": "FLOAT"
           }
         ],
@@ -45169,10 +45169,10 @@
       "favorites": []
     },
     "ds": {
-      "scale": 0.4758683439059199,
+      "scale": 0.26333125430607984,
       "offset": [
-        -768.1020806363617,
-        -4320.902738757608
+        2774.0173888435493,
+        -4338.717312347543
       ]
     }
   },
